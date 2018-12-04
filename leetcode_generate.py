@@ -54,7 +54,7 @@ def get_config_from_file():
 
     language = cp.get('leetcode', 'language')
     if not language:
-        language = 'python3'  # language default python
+        language = 'python'  # language default python
     repo = cp.get('leetcode', 'repo')
     if not repo:
         raise Exception('Please input your Github repo address')
@@ -435,7 +435,7 @@ class Leetcode:
                 )
         quote_question = '\n'.join(lines)
         # generate content
-        content = '# -*- coding:utf-8 -*-' + '\n' * 3 if language == 'python3' else ''
+        content = '# -*- coding:utf-8 -*-' + '\n' * 3 if language == 'python' else ''
         content += quote_question
         content += '\n' * 3
         content += code
@@ -455,6 +455,7 @@ class Leetcode:
         )
         print (self.languages)
         print (quiz)
+
         if not slts:
             print(
                 'No solution with the set languages in question:{}-{}'.format(
