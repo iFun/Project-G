@@ -449,6 +449,7 @@ class Leetcode:
         """
         qid = quiz.question_id
         qtitle = quiz.question__title_slug
+
         slts = list(
             filter(lambda i: i['lang'] in self.languages, quiz.solutions)
         )
