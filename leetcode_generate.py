@@ -54,7 +54,7 @@ def get_config_from_file():
 
     language = cp.get('leetcode', 'language')
     if not language:
-        language = 'python'  # language default python
+        language = 'python3'  # language default python
     repo = cp.get('leetcode', 'repo')
     if not repo:
         raise Exception('Please input your Github repo address')
