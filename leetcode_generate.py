@@ -453,6 +453,8 @@ class Leetcode:
         slts = list(
             filter(lambda i: i['lang'] in self.languages, quiz.solutions)
         )
+        print (self.languages)
+        print (quiz)
         if not slts:
             print(
                 'No solution with the set languages in question:{}-{}'.format(
