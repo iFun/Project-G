@@ -453,9 +453,7 @@ class Leetcode:
         slts = list(
             filter(lambda i: i['lang'] in self.languages, quiz.solutions)
         )
-        print (self.languages)
-        print (quiz)
-
+        
         if not slts:
             print(
                 'No solution with the set languages in question:{}-{}'.format(
@@ -620,6 +618,4 @@ def do_job(leetcode):
 
 if __name__ == '__main__':
     leetcode = Leetcode()
-    while True:
-        do_job(leetcode)
-        time.sleep(24 * 60 * 60)
+    do_job(leetcode)
