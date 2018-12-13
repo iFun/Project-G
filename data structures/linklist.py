@@ -57,6 +57,7 @@ class LinkedList():
         current.prev = node
         prev.next = node
 
+
     def deleteNode(self, node):
         if node is self.tail:
             self.tail = self.tail.prev
