@@ -6,8 +6,8 @@
 # Usage:  Leetcode solution downloader and auto generate readme
 #
 import requests
-import configparser
 import os
+import configparser
 import json
 import time
 import datetime
@@ -15,12 +15,15 @@ import re
 import sys
 import html
 
+from pathlib import Path
 from selenium import webdriver
 from collections import namedtuple, OrderedDict
 
-HOME = os.getcwd()
-CONFIG_FILE = os.path.join(HOME, 'config.cfg')
-COOKIE_PATH = 'cookies.json'
+HOME = Path.cwd()
+SOLUTION_FOLDER_NAME = 'solutions'
+SOLUTION_FOLDER = Path.joinpath(HOME, SOLUTION_FOLDER_NAME)
+CONFIG_FILE = Path.joinpath(HOME, 'config.cfg')
+COOKIE_PATH = Path.joinpath(HOME, 'cookies.json')
 BASE_URL = 'https://leetcode.com'
 # If you have proxy, change PROXIES below
 PROXIES = None
@@ -85,8 +88,9 @@ def rep_unicode_in_code(code):
 
 
 def check_and_make_dir(dirname):
-    if not os.path.exists(dirname):
-        os.mkdir(dirname)
+    p = Path(dirname)
+    if not p.exists():
+        p.mkdir(parents=True)
 
 
 ProgLang = namedtuple('ProgLang', ['language', 'ext', 'annotation'])
@@ -102,6 +106,8 @@ ProgLangList = [
     ProgLang('kotlin', 'kt', '//'),
     ProgLang('swift', 'swift', '//'),
     ProgLang('golang', 'go', '//'),
+    ProgLang('scala', 'scala', '//'),
+    ProgLang('rust', 'rs', '//'),
 ]
 ProgLangDict = dict((item.language, item) for item in ProgLangList)
 CONFIG = get_config_from_file()
@@ -290,7 +296,7 @@ class Leetcode:
     def is_login(self):
         """ validate if the cookie exists and not overtime """
         api_url = self.base_url + '/api/problems/algorithms/'  # NOQA
-        if not os.path.exists(COOKIE_PATH):
+        if not COOKIE_PATH.exists():
             return False
 
         with open(COOKIE_PATH, 'r') as f:
@@ -449,11 +455,9 @@ class Leetcode:
         """
         qid = quiz.question_id
         qtitle = quiz.question__title_slug
-
         slts = list(
             filter(lambda i: i['lang'] in self.languages, quiz.solutions)
         )
-        
         if not slts:
             print(
                 'No solution with the set languages in question:{}-{}'.format(
@@ -462,15 +466,15 @@ class Leetcode:
             )
             return
 
-        dirname = '{id}-{title}'.format(id=str(qid).zfill(3), title=qtitle)
-        print('begin download ' + dirname)
-        check_and_make_dir(dirname)
-        path = os.path.join(HOME, dirname)
+        qname = '{id}-{title}'.format(id=str(qid).zfill(3), title=qtitle)
+        print('begin download ' + qname)
+        path = Path.joinpath(SOLUTION_FOLDER, qname)
+        check_and_make_dir(path)
         for slt in slts:
             fname = '{title}.{ext}'.format(
                 title=qtitle, ext=self.prolangdict[slt['lang']].ext
             )
-            filename = os.path.join(path, fname)
+            filename = Path.joinpath(path, fname)
             content = self._get_code_with_anno(slt)
             import codecs
 
@@ -549,7 +553,8 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
                 language = ':lock:'
             else:
                 if item.solutions:
-                    dirname = '{id}-{title}'.format(
+                    dirname = '{folder}/{id}-{title}'.format(
+                        folder=SOLUTION_FOLDER_NAME,
                         id=str(item.question_id).zfill(3),
                         title=item.question__title_slug,
                     )
