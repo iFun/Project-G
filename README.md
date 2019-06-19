@@ -1,4 +1,4 @@
-# :pencil2: Leetcode Solutions with Python,Python3,Javascript
+# :pencil2: Leetcode Solutions with Python3,Javascript
 Update time:  2019-06-18 22:39:36
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
