@@ -41,6 +41,15 @@ class Heap():
     def add_front(self, val: int) -> None:
         self.array.insert(1,val)
         self.heapify_down(1)
+    
+    def pop_max(self) -> int:
+        if len(self.array) < 2:
+            return None
+        self._exchange(1,len(self.array) - 1)
+        result = self.array.pop()
+        self.heapify_down(1)
+
+        return result
 
     
     def get_parent_index(self, child_index: int) -> int:
@@ -79,7 +88,8 @@ def main():
     heap.add_back(25)
     heap.add_back(35)
     heap.add_back(45)
-    heap.add_back(2)
+    heap.add_back(100)
+    heap.pop_max()
     print(heap)
 
 
