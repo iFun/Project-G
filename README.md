@@ -1,9 +1,9 @@
-# :pencil2: Leetcode Solutions with Python,Python3,Javascript
-Update time:  2019-07-08 17:59:01
+# :pencil2: Leetcode Solutions with Python3,Javascript
+Update time:  2019-07-11 15:54:58
 
 Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
 
-I have solved **27   /   1047** problems
+I have solved **32   /   1047** problems
 while there are **161** problems still locked.
 
 If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
@@ -153,10 +153,10 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |135|[candy](https://leetcode.com/problems/candy)||[:memo:](https://leetcode.com/articles/candy/)|Hard|
 |136|[single-number](https://leetcode.com/problems/single-number)||[:memo:](https://leetcode.com/articles/single-number/)|Easy|
 |137|[single-number-ii](https://leetcode.com/problems/single-number-ii)|||Medium|
-|138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)||[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
+|138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/138-copy-list-with-random-pointer/copy-list-with-random-pointer.py)|[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
 |139|[word-break](https://leetcode.com/problems/word-break)||[:memo:](https://leetcode.com/articles/word-break/)|Medium|
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
-|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[Python](https://github.com/iFun/Project-G/blob/master/solutions/141-linked-list-cycle/linked-list-cycle.py)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
+|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)||[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)||[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
@@ -268,7 +268,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |267|[palindrome-permutation-ii](https://leetcode.com/problems/palindrome-permutation-ii)|:lock:|[:memo:](https://leetcode.com/articles/palindrome-permutation-ii/)|Medium|
 |268|[missing-number](https://leetcode.com/problems/missing-number)||[:memo:](https://leetcode.com/articles/missing-number/)|Easy|
 |269|[alien-dictionary](https://leetcode.com/problems/alien-dictionary)|:lock:||Hard|
-|270|[closest-binary-search-tree-value](https://leetcode.com/problems/closest-binary-search-tree-value)|:lock:||Easy|
+|270|[closest-binary-search-tree-value](https://leetcode.com/problems/closest-binary-search-tree-value)|:lock:|[:memo:](https://leetcode.com/articles/closest-bst-value/)|Easy|
 |271|[encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings)|:lock:|[:memo:](https://leetcode.com/articles/encode-and-decode-strings/)|Medium|
 |272|[closest-binary-search-tree-value-ii](https://leetcode.com/problems/closest-binary-search-tree-value-ii)|:lock:||Hard|
 |273|[integer-to-english-words](https://leetcode.com/problems/integer-to-english-words)||[:memo:](https://leetcode.com/articles/integer-to-english-words/)|Hard|
@@ -595,7 +595,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |645|[set-mismatch](https://leetcode.com/problems/set-mismatch)||[:memo:](https://leetcode.com/articles/set-mismatch/)|Easy|
 |646|[maximum-length-of-pair-chain](https://leetcode.com/problems/maximum-length-of-pair-chain)||[:memo:](https://leetcode.com/articles/maximum-length-of-pair-chain/)|Medium|
 |647|[palindromic-substrings](https://leetcode.com/problems/palindromic-substrings)||[:memo:](https://leetcode.com/articles/palindromic-substrings/)|Medium|
-|648|[replace-words](https://leetcode.com/problems/replace-words)||[:memo:](https://leetcode.com/articles/replace-words/)|Medium|
+|648|[replace-words](https://leetcode.com/problems/replace-words)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/648-replace-words/replace-words.py)|[:memo:](https://leetcode.com/articles/replace-words/)|Medium|
 |649|[dota2-senate](https://leetcode.com/problems/dota2-senate)||[:memo:](https://leetcode.com/articles/dota2-senate/)|Medium|
 |650|[2-keys-keyboard](https://leetcode.com/problems/2-keys-keyboard)||[:memo:](https://leetcode.com/articles/2-keys-keyboard/)|Medium|
 |651|[4-keys-keyboard](https://leetcode.com/problems/4-keys-keyboard)|:lock:|[:memo:](https://leetcode.com/articles/4-keys-keyboard/)|Medium|
@@ -623,7 +623,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |673|[number-of-longest-increasing-subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/number-of-longest-increasing-subsequence/)|Medium|
 |674|[longest-continuous-increasing-subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-continuous-increasing-subsequence/)|Easy|
 |675|[cut-off-trees-for-golf-event](https://leetcode.com/problems/cut-off-trees-for-golf-event)||[:memo:](https://leetcode.com/articles/cutoff-trees-for-golf-event/)|Hard|
-|676|[implement-magic-dictionary](https://leetcode.com/problems/implement-magic-dictionary)||[:memo:](https://leetcode.com/articles/implement-magic-dictionary/)|Medium|
+|676|[implement-magic-dictionary](https://leetcode.com/problems/implement-magic-dictionary)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/676-implement-magic-dictionary/implement-magic-dictionary.py)|[:memo:](https://leetcode.com/articles/implement-magic-dictionary/)|Medium|
 |677|[map-sum-pairs](https://leetcode.com/problems/map-sum-pairs)||[:memo:](https://leetcode.com/articles/map-sum-pairs/)|Medium|
 |678|[valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string)||[:memo:](https://leetcode.com/articles/valid-parenthesis-string/)|Medium|
 |679|[24-game](https://leetcode.com/problems/24-game)||[:memo:](https://leetcode.com/articles/24-game/)|Hard|
@@ -639,7 +639,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |689|[maximum-sum-of-3-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays)||[:memo:](https://leetcode.com/articles/maximum-sum-of-3-non-overlapping-intervals/)|Hard|
 |690|[employee-importance](https://leetcode.com/problems/employee-importance)||[:memo:](https://leetcode.com/articles/employee-importance/)|Easy|
 |691|[stickers-to-spell-word](https://leetcode.com/problems/stickers-to-spell-word)||[:memo:](https://leetcode.com/articles/stickers-to-spell-word/)|Hard|
-|692|[top-k-frequent-words](https://leetcode.com/problems/top-k-frequent-words)||[:memo:](https://leetcode.com/articles/top-k-frequent-words/)|Medium|
+|692|[top-k-frequent-words](https://leetcode.com/problems/top-k-frequent-words)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/692-top-k-frequent-words/top-k-frequent-words.py)|[:memo:](https://leetcode.com/articles/top-k-frequent-words/)|Medium|
 |693|[binary-number-with-alternating-bits](https://leetcode.com/problems/binary-number-with-alternating-bits)||[:memo:](https://leetcode.com/articles/binary-number-with-alternating-bits/)|Easy|
 |694|[number-of-distinct-islands](https://leetcode.com/problems/number-of-distinct-islands)|:lock:|[:memo:](https://leetcode.com/articles/number-of-distinct-islands/)|Medium|
 |695|[max-area-of-island](https://leetcode.com/problems/max-area-of-island)||[:memo:](https://leetcode.com/articles/max-area-of-island/)|Medium|
@@ -661,7 +661,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |722|[remove-comments](https://leetcode.com/problems/remove-comments)||[:memo:](https://leetcode.com/articles/remove-comments/)|Medium|
 |723|[candy-crush](https://leetcode.com/problems/candy-crush)|:lock:|[:memo:](https://leetcode.com/articles/candy-crush/)|Medium|
 |724|[find-pivot-index](https://leetcode.com/problems/find-pivot-index)||[:memo:](https://leetcode.com/articles/find-pivot-index/)|Easy|
-|725|[split-linked-list-in-parts](https://leetcode.com/problems/split-linked-list-in-parts)||[:memo:](https://leetcode.com/articles/split-linked-list-in-parts/)|Medium|
+|725|[split-linked-list-in-parts](https://leetcode.com/problems/split-linked-list-in-parts)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/725-split-linked-list-in-parts/split-linked-list-in-parts.py)|[:memo:](https://leetcode.com/articles/split-linked-list-in-parts/)|Medium|
 |726|[number-of-atoms](https://leetcode.com/problems/number-of-atoms)||[:memo:](https://leetcode.com/articles/number-of-atoms/)|Hard|
 |727|[minimum-window-subsequence](https://leetcode.com/problems/minimum-window-subsequence)|:lock:|[:memo:](https://leetcode.com/articles/minimum-window-subsequence/)|Hard|
 |728|[self-dividing-numbers](https://leetcode.com/problems/self-dividing-numbers)||[:memo:](https://leetcode.com/articles/self-dividing-numbers/)|Easy|
@@ -678,7 +678,7 @@ If you are loving solving problems in leetcode, please contact me to enjoy it to
 |739|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)||[:memo:](https://leetcode.com/articles/daily-temperatures/)|Medium|
 |740|[delete-and-earn](https://leetcode.com/problems/delete-and-earn)||[:memo:](https://leetcode.com/articles/delete-and-earn/)|Medium|
 |741|[cherry-pickup](https://leetcode.com/problems/cherry-pickup)||[:memo:](https://leetcode.com/articles/cherry-pickup/)|Hard|
-|742|[to-lower-case](https://leetcode.com/problems/to-lower-case)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/742-to-lower-case/to-lower-case.py) [Python](https://github.com/iFun/Project-G/blob/master/solutions/742-to-lower-case/to-lower-case.py)||Easy|
+|742|[to-lower-case](https://leetcode.com/problems/to-lower-case)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/742-to-lower-case/to-lower-case.py)||Easy|
 |743|[closest-leaf-in-a-binary-tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/closest-leaf-in-binary-tree/)|Medium|
 |744|[network-delay-time](https://leetcode.com/problems/network-delay-time)||[:memo:](https://leetcode.com/articles/network-delay-time/)|Medium|
 |745|[find-smallest-letter-greater-than-target](https://leetcode.com/problems/find-smallest-letter-greater-than-target)||[:memo:](https://leetcode.com/articles/find-smallest-letter-greater-than-target/)|Easy|
