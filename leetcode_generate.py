@@ -512,7 +512,7 @@ class Leetcode:
     def write_readme(self):
         """Write Readme to current folder"""
         languages_readme = ','.join([x.capitalize() for x in self.languages])
-        md = '''# :pencil2: Leetcode Solutions with {language}
+        md = '''# :coffee: Leetcode Solutions with {language} :coffee:
 Update time:  {tm}
 
 I have solved **{num_solved}   /   {num_total}** problems
