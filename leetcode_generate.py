@@ -520,9 +520,9 @@ class Leetcode:
 
 
         if self.num_solved > goal:
-            goal_text = 'Right now I am ahead of my goal by ' + str(self.num_solved - goal) + 'problems'
+            goal_text = 'Right now I am ahead of my goal by ' + str(int(self.num_solved - goal)) + 'problems'
         else:
-            goal_text = 'Right now I am behind of my goal by ' + str(goal - self.num_solved) + 'problems'
+            goal_text = 'Right now I am behind of my goal by ' + str(int(goal - self.num_solved)) + 'problems'
 
         md = '''# :coffee: Leetcode Solutions with {language} :coffee:
 
@@ -532,7 +532,8 @@ Update time:  {tm}
 I have solved **{num_solved}   /   {num_total}** problems
 while there are **{num_lock}** problems still locked.
 
-My goal is to solve at least 2 problems per day
+My goal is to solve at least 2 problems per day \n
+
 {goal}
 
 | # | Title | Source Code | Article | Difficulty |
