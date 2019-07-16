@@ -513,20 +513,20 @@ class Leetcode:
         """Write Readme to current folder"""
         languages_readme = ','.join([x.capitalize() for x in self.languages])
         goal_text = ''
-        start_unix = 1562212800
+        start_unix = 1561953600
         now = datetime.datetime.now()
         start_of_the_day_unix = int(datetime.date(now.year, now.month, now.day).strftime("%s"))
         goal = ((start_of_the_day_unix - start_unix) / 86400) * 2
 
 
         if self.num_solved > goal:
-            goal_text = 'Right now I am ahead of my goal by ' + str(int(self.num_solved - goal)) + 'problems'
+            goal_text = 'Right now I am ahead of my goal by **' + str(int(self.num_solved - goal)) + '** roblems'
         else:
-            goal_text = 'Right now I am behind of my goal by ' + str(int(goal - self.num_solved)) + 'problems'
+            goal_text = 'Right now I am behind of my goal by **' + str(int(goal - self.num_solved)) + '** problems'
 
         md = '''# :coffee: Leetcode Solutions with {language} :coffee:
 
-Start time:   2019-07-04      
+Start time:   2019-07-01      
 Update time:  {tm}
 
 I have solved **{num_solved}   /   {num_total}** problems
