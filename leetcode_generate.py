@@ -512,23 +512,33 @@ class Leetcode:
     def write_readme(self):
         """Write Readme to current folder"""
         languages_readme = ','.join([x.capitalize() for x in self.languages])
+        goal_text = ''
+        start_unix = 1562212800
+        now = datetime.datetime.now()
+        start_of_the_day_unix = int(datetime.date(now.year, now.month, now.day).strftime("%s"))
+        goal = ((start_of_the_day_unix - start_unix) / 86400) * 2
+
+
+        if self.num_solved > goal:
+            goal_text = 'Right now I am ahead of my goal by ' + str(self.num_solved - goal) + 'problems'
+        else:
+            goal_text = 'Right now I am behind of my goal by ' + str(goal - self.num_solved) + 'problems'
+
         md = '''# :coffee: Leetcode Solutions with {language} :coffee:
+
+Start time:   2019-07-04      
 Update time:  {tm}
 
 I have solved **{num_solved}   /   {num_total}** problems
 while there are **{num_lock}** problems still locked.
 
-If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
-
-If you have any question, please give me an [issue]({repo}/issues).
-
-If you are loving solving problems in leetcode, please contact me to enjoy it together!
-
-(Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
+My goal is to solve at least 2 problems per day
+{goal}
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|'''.format(
             language=languages_readme,
+            goal=goal_text,
             tm=time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())),
             num_solved=self.num_solved,
             num_total=self.num_total,
