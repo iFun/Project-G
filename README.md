@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-07-23 14:06:59
+Update time:  2019-07-25 16:44:58
 
-I have solved **48   /   1059** problems
+I have solved **49   /   1059** problems
 while there are **165** problems still locked.
 
 My goal is to solve at least 2 problems per day 
 
 
-Right now I am ahead of my goal by **4** roblems
+Right now I am ahead of my goal by **1** roblems
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -102,7 +102,7 @@ Right now I am ahead of my goal by **4** roblems
 |87|[scramble-string](https://leetcode.com/problems/scramble-string)|||Hard|
 |88|[merge-sorted-array](https://leetcode.com/problems/merge-sorted-array)||[:memo:](https://leetcode.com/articles/merge-sorted-arrays/)|Easy|
 |89|[gray-code](https://leetcode.com/problems/gray-code)|||Medium|
-|90|[subsets-ii](https://leetcode.com/problems/subsets-ii)|||Medium|
+|90|[subsets-ii](https://leetcode.com/problems/subsets-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0090-subsets-ii/subsets-ii.py)||Medium|
 |91|[decode-ways](https://leetcode.com/problems/decode-ways)|||Medium|
 |92|[reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0092-reverse-linked-list-ii/reverse-linked-list-ii.py)|[:memo:](https://leetcode.com/articles/reverse-linked-list-ii/)|Medium|
 |93|[restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses)||[:memo:](https://leetcode.com/articles/restore-ip-addresses/)|Medium|
@@ -427,7 +427,7 @@ Right now I am ahead of my goal by **4** roblems
 |435|[non-overlapping-intervals](https://leetcode.com/problems/non-overlapping-intervals)||[:memo:](https://leetcode.com/articles/non-overlapping-intervals/)|Medium|
 |436|[find-right-interval](https://leetcode.com/problems/find-right-interval)||[:memo:](https://leetcode.com/articles/find-right-interval/)|Medium|
 |437|[path-sum-iii](https://leetcode.com/problems/path-sum-iii)|||Easy|
-|438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)|||Easy|
+|438|[find-all-anagrams-in-a-string](https://leetcode.com/problems/find-all-anagrams-in-a-string)|||Medium|
 |439|[ternary-expression-parser](https://leetcode.com/problems/ternary-expression-parser)|:lock:||Medium|
 |440|[k-th-smallest-in-lexicographical-order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order)|||Hard|
 |441|[arranging-coins](https://leetcode.com/problems/arranging-coins)|||Easy|
@@ -981,7 +981,7 @@ Right now I am ahead of my goal by **4** roblems
 |1057|[numbers-with-repeated-digits](https://leetcode.com/problems/numbers-with-repeated-digits)|||Hard|
 |1058|[lexicographically-smallest-equivalent-string](https://leetcode.com/problems/lexicographically-smallest-equivalent-string)|:lock:||Medium|
 |1059|[missing-element-in-sorted-array](https://leetcode.com/problems/missing-element-in-sorted-array)|:lock:|[:memo:](https://leetcode.com/articles/missing-element-in-sorted-array/)|Medium|
-|1060|[longest-repeating-substring](https://leetcode.com/problems/longest-repeating-substring)|:lock:||Medium|
+|1060|[longest-repeating-substring](https://leetcode.com/problems/longest-repeating-substring)|:lock:|[:memo:](https://leetcode.com/articles/longest-repeating-substring/)|Medium|
 |1061|[number-of-valid-subarrays](https://leetcode.com/problems/number-of-valid-subarrays)|:lock:||Hard|
 |1062|[partition-array-into-three-parts-with-equal-sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)|||Easy|
 |1063|[best-sightseeing-pair](https://leetcode.com/problems/best-sightseeing-pair)|||Medium|
