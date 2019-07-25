@@ -1,7 +1,7 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-07-25 16:44:58
+Update time:  2019-07-25 16:47:59
 
 I have solved **49   /   1059** problems
 while there are **165** problems still locked.
@@ -9,7 +9,7 @@ while there are **165** problems still locked.
 My goal is to solve at least 2 problems per day 
 
 
-Right now I am ahead of my goal by **1** roblems
+Right now I am ahead of my goal by **1** problems
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
