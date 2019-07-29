@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-07-25 16:47:59
+Update time:  2019-07-29 16:51:03
 
-I have solved **49   /   1059** problems
-while there are **165** problems still locked.
+I have solved **51   /   1067** problems
+while there are **169** problems still locked.
 
 My goal is to solve at least 2 problems per day 
 
 
-Right now I am ahead of my goal by **1** problems
+Right now I am behind of my goal by **5** problems
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -401,7 +401,7 @@ Right now I am ahead of my goal by **1** problems
 |403|[frog-jump](https://leetcode.com/problems/frog-jump)||[:memo:](https://leetcode.com/articles/frog-jump/)|Hard|
 |404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|||Easy|
 |405|[convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|||Easy|
-|406|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height)|||Medium|
+|406|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height)||[:memo:](https://leetcode.com/articles/queue-reconstruction-by-height/)|Medium|
 |407|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii)|||Hard|
 |408|[valid-word-abbreviation](https://leetcode.com/problems/valid-word-abbreviation)|:lock:||Easy|
 |409|[longest-palindrome](https://leetcode.com/problems/longest-palindrome)||[:memo:](https://leetcode.com/articles/longest-palindrome/)|Easy|
@@ -815,8 +815,8 @@ Right now I am ahead of my goal by **1** problems
 |886|[score-of-parentheses](https://leetcode.com/problems/score-of-parentheses)||[:memo:](https://leetcode.com/articles/score-of-parentheses/)|Medium|
 |887|[minimum-cost-to-hire-k-workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers)||[:memo:](https://leetcode.com/articles/minimum-cost-to-hire-k-workers/)|Hard|
 |888|[mirror-reflection](https://leetcode.com/problems/mirror-reflection)||[:memo:](https://leetcode.com/articles/mirror-reflection/)|Medium|
-|889|[buddy-strings](https://leetcode.com/problems/buddy-strings)||[:memo:](https://leetcode.com/articles/buddy-strings/)|Easy|
-|890|[lemonade-change](https://leetcode.com/problems/lemonade-change)||[:memo:](https://leetcode.com/articles/lemonade-change/)|Easy|
+|889|[buddy-strings](https://leetcode.com/problems/buddy-strings)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0889-buddy-strings/buddy-strings.py)|[:memo:](https://leetcode.com/articles/buddy-strings/)|Easy|
+|890|[lemonade-change](https://leetcode.com/problems/lemonade-change)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0890-lemonade-change/lemonade-change.py)|[:memo:](https://leetcode.com/articles/lemonade-change/)|Easy|
 |891|[score-after-flipping-matrix](https://leetcode.com/problems/score-after-flipping-matrix)||[:memo:](https://leetcode.com/articles/score-after-flipping-matrix/)|Medium|
 |892|[shortest-subarray-with-sum-at-least-k](https://leetcode.com/problems/shortest-subarray-with-sum-at-least-k)||[:memo:](https://leetcode.com/articles/shortest-subarray-with-sum-atleast-k/)|Hard|
 |893|[all-nodes-distance-k-in-binary-tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree)||[:memo:](https://leetcode.com/articles/all-nodes-distance-k-in-binary-tree/)|Medium|
@@ -1011,6 +1011,7 @@ Right now I am ahead of my goal by **1** problems
 |1087|[longest-arithmetic-sequence](https://leetcode.com/problems/longest-arithmetic-sequence)|||Medium|
 |1088|[number-of-days-in-a-month](https://leetcode.com/problems/number-of-days-in-a-month)|:lock:||Easy|
 |1089|[remove-vowels-from-a-string](https://leetcode.com/problems/remove-vowels-from-a-string)|:lock:||Easy|
+|1090|[armstrong-number](https://leetcode.com/problems/armstrong-number)|:lock:||Easy|
 |1091|[maximum-average-subtree](https://leetcode.com/problems/maximum-average-subtree)|:lock:||Medium|
 |1092|[maximum-difference-between-node-and-ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor)|||Medium|
 |1093|[recover-a-tree-from-preorder-traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)|||Hard|
@@ -1018,7 +1019,10 @@ Right now I am ahead of my goal by **1** problems
 |1095|[two-city-scheduling](https://leetcode.com/problems/two-city-scheduling)||[:memo:](https://leetcode.com/articles/two-city-scheduling/)|Easy|
 |1096|[maximum-sum-of-two-non-overlapping-subarrays](https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays)|||Medium|
 |1097|[stream-of-characters](https://leetcode.com/problems/stream-of-characters)|||Hard|
+|1098|[largest-unique-number](https://leetcode.com/problems/largest-unique-number)|:lock:||Easy|
 |1099|[path-with-maximum-minimum-value](https://leetcode.com/problems/path-with-maximum-minimum-value)|:lock:||Medium|
+|1100|[connecting-cities-with-minimum-cost](https://leetcode.com/problems/connecting-cities-with-minimum-cost)|:lock:||Medium|
+|1101|[parallel-courses](https://leetcode.com/problems/parallel-courses)|:lock:||Hard|
 |1103|[moving-stones-until-consecutive](https://leetcode.com/problems/moving-stones-until-consecutive)|||Easy|
 |1104|[coloring-a-border](https://leetcode.com/problems/coloring-a-border)|||Medium|
 |1105|[uncrossed-lines](https://leetcode.com/problems/uncrossed-lines)|||Medium|
@@ -1072,3 +1076,7 @@ Right now I am ahead of my goal by **1** problems
 |1228|[minimum-cost-tree-from-leaf-values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||Medium|
 |1229|[shortest-path-with-alternating-colors](https://leetcode.com/problems/shortest-path-with-alternating-colors)|||Medium|
 |1230|[maximum-of-absolute-value-expression](https://leetcode.com/problems/maximum-of-absolute-value-expression)|||Medium|
+|1236|[n-th-tribonacci-number](https://leetcode.com/problems/n-th-tribonacci-number)|||Easy|
+|1238|[alphabet-board-path](https://leetcode.com/problems/alphabet-board-path)|||Medium|
+|1239|[largest-1-bordered-square](https://leetcode.com/problems/largest-1-bordered-square)|||Medium|
+|1240|[stone-game-ii](https://leetcode.com/problems/stone-game-ii)|||Medium|
