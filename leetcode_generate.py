@@ -520,9 +520,11 @@ class Leetcode:
 
 
         if self.num_solved > goal:
-            goal_text = 'Right now I am ahead of my goal by **' + str(int(self.num_solved - goal)) + '** problems'
+            goal_text = 'Right now I am exceed of my daily goals by **' + str(int(self.num_solved - goal)) + '** problems  :blush:'
+        elif self.num_solved is goal:
+            goal_text = 'Right now I achieved my daily goals  :smiley:'
         else:
-            goal_text = 'Right now I am behind of my goal by **' + str(int(goal - self.num_solved)) + '** problems'
+            goal_text = 'Right now I am behind of my daily goals by **' + str(int(goal - self.num_solved)) + '** problems  :worried:'
 
         md = '''# :coffee: Leetcode Solutions with {language} :coffee:
 
