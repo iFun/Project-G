@@ -509,6 +509,11 @@ class Leetcode:
             pool.submit(self._download_code_by_quiz, quiz)
         pool.shutdown(wait=True)
 
+    def convert_title(self, title):
+        if len(title) > 30:
+            return title[:30] + '...'
+        return title
+
     def write_readme(self):
         """Write Readme to current folder"""
         languages_readme = ','.join([x.capitalize() for x in self.languages])
@@ -583,9 +588,10 @@ My goal is to solve at least 2 problems per day \n
                 else:
                     language = ''
             language = language.strip()
+            shortTitle = self.convert_title(item.question__title_slug)
             md += '|{id}|[{title}]({url})|{language}|{article}|{difficulty}|\n'.format(
                 id=item.question_id,
-                title=item.question__title_slug,
+                title=shortTitle,
                 url=item.url,
                 language=language,
                 article=article,
