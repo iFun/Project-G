@@ -510,8 +510,8 @@ class Leetcode:
         pool.shutdown(wait=True)
 
     def convert_title(self, title):
-        if len(title) > 30:
-            return title[:30] + '...'
+        if len(title) > 35:
+            return title[:35] + '...'
         return title
 
     def write_readme(self):
