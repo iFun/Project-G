@@ -1,15 +1,15 @@
-# :coffee: Leetcode Solutions with Python,Python3,Javascript :coffee:
+# :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-09-02 15:09:45
+Update time:  2019-09-04 15:30:42
 
-I have solved **86   /   1096** problems
+I have solved **93   /   1096** problems
 while there are **177** problems still locked.
 
 My goal is to solve at least 2 problems per day 
 
 
-Right now I am behind of my daily goals by **40** problems  :worried:
+Right now I am behind of my daily goals by **37** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -153,7 +153,7 @@ Right now I am behind of my daily goals by **40** problems  :worried:
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0138-copy-list-with-random-pointer/copy-list-with-random-pointer.py)|[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
 |139|[word-break](https://leetcode.com/problems/word-break)||[:memo:](https://leetcode.com/articles/word-break/)|Medium|
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
-|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[Python](https://github.com/iFun/Project-G/blob/master/solutions/0141-linked-list-cycle/linked-list-cycle.py)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
+|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)||[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)|[Javascript](https://github.com/iFun/Project-G/blob/master/solutions/0142-linked-list-cycle-ii/linked-list-cycle-ii.js)|[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
@@ -258,12 +258,12 @@ Right now I am behind of my daily goals by **40** problems  :worried:
 |259|[3sum-smaller](https://leetcode.com/problems/3sum-smaller)|:lock:|[:memo:](https://leetcode.com/articles/3sum-smaller/)|Medium|
 |260|[single-number-iii](https://leetcode.com/problems/single-number-iii)||[:memo:](https://leetcode.com/articles/single-number-iii/)|Medium|
 |261|[graph-valid-tree](https://leetcode.com/problems/graph-valid-tree)|:lock:||Medium|
-|263|[ugly-number](https://leetcode.com/problems/ugly-number)|||Easy|
+|263|[ugly-number](https://leetcode.com/problems/ugly-number)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0263-ugly-number/ugly-number.py)||Easy|
 |264|[ugly-number-ii](https://leetcode.com/problems/ugly-number-ii)||[:memo:](https://leetcode.com/articles/ugly-number-ii/)|Medium|
 |265|[paint-house-ii](https://leetcode.com/problems/paint-house-ii)|:lock:||Hard|
 |266|[palindrome-permutation](https://leetcode.com/problems/palindrome-permutation)|:lock:|[:memo:](https://leetcode.com/articles/palindrome-permutation/)|Easy|
 |267|[palindrome-permutation-ii](https://leetcode.com/problems/palindrome-permutation-ii)|:lock:|[:memo:](https://leetcode.com/articles/palindrome-permutation-ii/)|Medium|
-|268|[missing-number](https://leetcode.com/problems/missing-number)||[:memo:](https://leetcode.com/articles/missing-number/)|Easy|
+|268|[missing-number](https://leetcode.com/problems/missing-number)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0268-missing-number/missing-number.py)|[:memo:](https://leetcode.com/articles/missing-number/)|Easy|
 |269|[alien-dictionary](https://leetcode.com/problems/alien-dictionary)|:lock:||Hard|
 |270|[closest-binary-search-tree-value](https://leetcode.com/problems/closest-binary-search-tree-value)|:lock:|[:memo:](https://leetcode.com/articles/closest-bst-value/)|Easy|
 |271|[encode-and-decode-strings](https://leetcode.com/problems/encode-and-decode-strings)|:lock:|[:memo:](https://leetcode.com/articles/encode-and-decode-strings/)|Medium|
@@ -287,7 +287,7 @@ Right now I am behind of my daily goals by **40** problems  :worried:
 |289|[game-of-life](https://leetcode.com/problems/game-of-life)||[:memo:](https://leetcode.com/articles/game-of-life/)|Medium|
 |290|[word-pattern](https://leetcode.com/problems/word-pattern)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0290-word-pattern/word-pattern.py)||Easy|
 |291|[word-pattern-ii](https://leetcode.com/problems/word-pattern-ii)|:lock:||Hard|
-|292|[nim-game](https://leetcode.com/problems/nim-game)||[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
+|292|[nim-game](https://leetcode.com/problems/nim-game)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0292-nim-game/nim-game.py)|[:memo:](https://leetcode.com/articles/nim-game/)|Easy|
 |293|[flip-game](https://leetcode.com/problems/flip-game)|:lock:||Easy|
 |294|[flip-game-ii](https://leetcode.com/problems/flip-game-ii)|:lock:||Medium|
 |295|[find-median-from-data-stream](https://leetcode.com/problems/find-median-from-data-stream)||[:memo:](https://leetcode.com/articles/find-median-from-data-stream/)|Hard|
@@ -404,13 +404,13 @@ Right now I am behind of my daily goals by **40** problems  :worried:
 |406|[queue-reconstruction-by-height](https://leetcode.com/problems/queue-reconstruction-by-height)||[:memo:](https://leetcode.com/articles/queue-reconstruction-by-height/)|Medium|
 |407|[trapping-rain-water-ii](https://leetcode.com/problems/trapping-rain-water-ii)|||Hard|
 |408|[valid-word-abbreviation](https://leetcode.com/problems/valid-word-abbreviation)|:lock:||Easy|
-|409|[longest-palindrome](https://leetcode.com/problems/longest-palindrome)||[:memo:](https://leetcode.com/articles/longest-palindrome/)|Easy|
+|409|[longest-palindrome](https://leetcode.com/problems/longest-palindrome)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0409-longest-palindrome/longest-palindrome.py)|[:memo:](https://leetcode.com/articles/longest-palindrome/)|Easy|
 |410|[split-array-largest-sum](https://leetcode.com/problems/split-array-largest-sum)||[:memo:](https://leetcode.com/articles/split-array-largest-sum/)|Hard|
 |411|[minimum-unique-word-abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation)|:lock:||Hard|
-|412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz)||[:memo:](https://leetcode.com/articles/fizz-buzz/)|Easy|
+|412|[fizz-buzz](https://leetcode.com/problems/fizz-buzz)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0412-fizz-buzz/fizz-buzz.py)|[:memo:](https://leetcode.com/articles/fizz-buzz/)|Easy|
 |413|[arithmetic-slices](https://leetcode.com/problems/arithmetic-slices)||[:memo:](https://leetcode.com/articles/arithmetic-slices/)|Medium|
-|414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number)|||Easy|
-|415|[add-strings](https://leetcode.com/problems/add-strings)|||Easy|
+|414|[third-maximum-number](https://leetcode.com/problems/third-maximum-number)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0414-third-maximum-number/third-maximum-number.py)||Easy|
+|415|[add-strings](https://leetcode.com/problems/add-strings)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0415-add-strings/add-strings.py)||Easy|
 |416|[partition-equal-subset-sum](https://leetcode.com/problems/partition-equal-subset-sum)|||Medium|
 |417|[pacific-atlantic-water-flow](https://leetcode.com/problems/pacific-atlantic-water-flow)|||Medium|
 |418|[sentence-screen-fitting](https://leetcode.com/problems/sentence-screen-fitting)|:lock:||Medium|
@@ -675,7 +675,7 @@ Right now I am behind of my daily goals by **40** problems  :worried:
 |739|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)||[:memo:](https://leetcode.com/articles/daily-temperatures/)|Medium|
 |740|[delete-and-earn](https://leetcode.com/problems/delete-and-earn)||[:memo:](https://leetcode.com/articles/delete-and-earn/)|Medium|
 |741|[cherry-pickup](https://leetcode.com/problems/cherry-pickup)||[:memo:](https://leetcode.com/articles/cherry-pickup/)|Hard|
-|742|[to-lower-case](https://leetcode.com/problems/to-lower-case)|[Python](https://github.com/iFun/Project-G/blob/master/solutions/0742-to-lower-case/to-lower-case.py) [Python3](https://github.com/iFun/Project-G/blob/master/solutions/0742-to-lower-case/to-lower-case.py)||Easy|
+|742|[to-lower-case](https://leetcode.com/problems/to-lower-case)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0742-to-lower-case/to-lower-case.py)||Easy|
 |743|[closest-leaf-in-a-binary-tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/closest-leaf-in-binary-tree/)|Medium|
 |744|[network-delay-time](https://leetcode.com/problems/network-delay-time)||[:memo:](https://leetcode.com/articles/network-delay-time/)|Medium|
 |745|[find-smallest-letter-greater-than-t...](https://leetcode.com/problems/find-smallest-letter-greater-than-target)||[:memo:](https://leetcode.com/articles/find-smallest-letter-greater-than-target/)|Easy|
@@ -899,7 +899,7 @@ Right now I am behind of my daily goals by **40** problems  :worried:
 |971|[shortest-bridge](https://leetcode.com/problems/shortest-bridge)||[:memo:](https://leetcode.com/articles/shortest-bridge/)|Medium|
 |972|[knight-dialer](https://leetcode.com/problems/knight-dialer)||[:memo:](https://leetcode.com/articles/knight-dialer/)|Medium|
 |973|[stamping-the-sequence](https://leetcode.com/problems/stamping-the-sequence)||[:memo:](https://leetcode.com/articles/stamping-the-sequence/)|Hard|
-|974|[reorder-log-files](https://leetcode.com/problems/reorder-log-files)||[:memo:](https://leetcode.com/articles/reorder-log-files/)|Easy|
+|974|[reorder-data-in-log-files](https://leetcode.com/problems/reorder-data-in-log-files)||[:memo:](https://leetcode.com/articles/reorder-log-files/)|Easy|
 |975|[range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst)||[:memo:](https://leetcode.com/articles/range-sum-of-bst/)|Easy|
 |976|[minimum-area-rectangle](https://leetcode.com/problems/minimum-area-rectangle)||[:memo:](https://leetcode.com/articles/minimum-area-rectangle/)|Medium|
 |977|[distinct-subsequences-ii](https://leetcode.com/problems/distinct-subsequences-ii)||[:memo:](https://leetcode.com/articles/distinct-subsequences-ii/)|Hard|
