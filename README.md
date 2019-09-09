@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-09-05 13:28:56
+Update time:  2019-09-09 15:38:11
 
-I have solved **97   /   1096** problems
-while there are **177** problems still locked.
+I have solved **99   /   1104** problems
+while there are **182** problems still locked.
 
 My goal is to solve at least 2 problems per day 
 
 
-Right now I am behind of my daily goals by **35** problems  :worried:
+Right now I am behind of my daily goals by **41** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -397,7 +397,7 @@ Right now I am behind of my daily goals by **35** problems  :worried:
 |399|[evaluate-division](https://leetcode.com/problems/evaluate-division)|||Medium|
 |400|[nth-digit](https://leetcode.com/problems/nth-digit)|||Medium|
 |401|[binary-watch](https://leetcode.com/problems/binary-watch)|||Easy|
-|402|[remove-k-digits](https://leetcode.com/problems/remove-k-digits)|||Medium|
+|402|[remove-k-digits](https://leetcode.com/problems/remove-k-digits)||[:memo:](https://leetcode.com/articles/remove-k-digits/)|Medium|
 |403|[frog-jump](https://leetcode.com/problems/frog-jump)||[:memo:](https://leetcode.com/articles/frog-jump/)|Hard|
 |404|[sum-of-left-leaves](https://leetcode.com/problems/sum-of-left-leaves)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0404-sum-of-left-leaves/sum-of-left-leaves.py)||Easy|
 |405|[convert-a-number-to-hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal)|||Easy|
@@ -437,7 +437,7 @@ Right now I am behind of my daily goals by **35** problems  :worried:
 |445|[add-two-numbers-ii](https://leetcode.com/problems/add-two-numbers-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0445-add-two-numbers-ii/add-two-numbers-ii.py)||Medium|
 |446|[arithmetic-slices-ii-subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)||[:memo:](https://leetcode.com/articles/arithmetic-slices-ii-subsequence/)|Hard|
 |447|[number-of-boomerangs](https://leetcode.com/problems/number-of-boomerangs)|||Easy|
-|448|[find-all-numbers-disappeared-in-an-...](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|||Easy|
+|448|[find-all-numbers-disappeared-in-an-...](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0448-find-all-numbers-disappeared-in-an-array/find-all-numbers-disappeared-in-an-array.py)||Easy|
 |449|[serialize-and-deserialize-bst](https://leetcode.com/problems/serialize-and-deserialize-bst)||[:memo:](https://leetcode.com/articles/serialize-and-deserialize-bst/)|Medium|
 |450|[delete-node-in-a-bst](https://leetcode.com/problems/delete-node-in-a-bst)||[:memo:](https://leetcode.com/articles/delete-node-in-a-bst/)|Medium|
 |451|[sort-characters-by-frequency](https://leetcode.com/problems/sort-characters-by-frequency)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0451-sort-characters-by-frequency/sort-characters-by-frequency.py)||Medium|
@@ -536,7 +536,7 @@ Right now I am behind of my daily goals by **35** problems  :worried:
 |554|[brick-wall](https://leetcode.com/problems/brick-wall)||[:memo:](https://leetcode.com/articles/brick-wall/)|Medium|
 |555|[split-concatenated-strings](https://leetcode.com/problems/split-concatenated-strings)|:lock:|[:memo:](https://leetcode.com/articles/split-assembled-strings/)|Medium|
 |556|[next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii)||[:memo:](https://leetcode.com/articles/next-greater-element-iii/)|Medium|
-|557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii)||[:memo:](https://leetcode.com/articles/reverse-words-in-a-string/)|Easy|
+|557|[reverse-words-in-a-string-iii](https://leetcode.com/problems/reverse-words-in-a-string-iii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0557-reverse-words-in-a-string-iii/reverse-words-in-a-string-iii.py)|[:memo:](https://leetcode.com/articles/reverse-words-in-a-string/)|Easy|
 |560|[subarray-sum-equals-k](https://leetcode.com/problems/subarray-sum-equals-k)||[:memo:](https://leetcode.com/articles/subarray-sum-equals-k/)|Medium|
 |561|[array-partition-i](https://leetcode.com/problems/array-partition-i)||[:memo:](https://leetcode.com/articles/array-partitioning-i/)|Easy|
 |562|[longest-line-of-consecutive-one-in-...](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)|:lock:|[:memo:](https://leetcode.com/articles/longest-line-of-consecutive-one-in-a-matrix/)|Medium|
@@ -1050,7 +1050,10 @@ Right now I am behind of my daily goals by **35** problems  :worried:
 |1128|[remove-all-adjacent-duplicates-in-s...](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string/)|Easy|
 |1129|[longest-string-chain](https://leetcode.com/problems/longest-string-chain)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/1129-longest-string-chain/longest-string-chain.py)||Medium|
 |1130|[last-stone-weight-ii](https://leetcode.com/problems/last-stone-weight-ii)|||Medium|
+|1131|[count-substrings-with-only-one-dist...](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|:lock:||Easy|
+|1132|[before-and-after-puzzle](https://leetcode.com/problems/before-and-after-puzzle)|:lock:||Medium|
 |1133|[last-substring-in-lexicographical-o...](https://leetcode.com/problems/last-substring-in-lexicographical-order)|||Hard|
+|1134|[shortest-distance-to-target-color](https://leetcode.com/problems/shortest-distance-to-target-color)|:lock:||Medium|
 |1137|[height-checker](https://leetcode.com/problems/height-checker)|||Easy|
 |1138|[grumpy-bookstore-owner](https://leetcode.com/problems/grumpy-bookstore-owner)|||Medium|
 |1139|[previous-permutation-with-one-swap](https://leetcode.com/problems/previous-permutation-with-one-swap)|||Medium|
@@ -1060,6 +1063,7 @@ Right now I am behind of my daily goals by **35** problems  :worried:
 |1146|[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|||Easy|
 |1147|[flip-columns-for-maximum-number-of-...](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)|||Medium|
 |1148|[adding-two-negabinary-numbers](https://leetcode.com/problems/adding-two-negabinary-numbers)|||Medium|
+|1152|[maximum-number-of-ones](https://leetcode.com/problems/maximum-number-of-ones)|:lock:||Hard|
 |1156|[occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)|||Easy|
 |1157|[insufficient-nodes-in-root-to-leaf-...](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
 |1159|[smallest-subsequence-of-distinct-ch...](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|||Medium|
@@ -1106,6 +1110,10 @@ Right now I am behind of my daily goals by **35** problems  :worried:
 |1272|[invalid-transactions](https://leetcode.com/problems/invalid-transactions)|||Medium|
 |1273|[compare-strings-by-frequency-of-the...](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)|||Easy|
 |1279|[prime-arrangements](https://leetcode.com/problems/prime-arrangements)|||Easy|
-|1280|[diet-plan-performance](https://leetcode.com/problems/diet-plan-performance)|||Easy|
+|1280|[diet-plan-performance](https://leetcode.com/problems/diet-plan-performance)|:lock:||Easy|
 |1281|[can-make-palindrome-from-substring](https://leetcode.com/problems/can-make-palindrome-from-substring)|||Medium|
 |1282|[number-of-valid-words-for-each-puzz...](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|||Hard|
+|1287|[distance-between-bus-stops](https://leetcode.com/problems/distance-between-bus-stops)|||Easy|
+|1288|[maximum-subarray-sum-with-one-delet...](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion)|||Medium|
+|1289|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|||Easy|
+|1290|[make-array-strictly-increasing](https://leetcode.com/problems/make-array-strictly-increasing)|||Hard|
