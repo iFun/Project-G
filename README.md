@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-09-09 15:38:11
+Update time:  2019-09-11 17:05:23
 
-I have solved **99   /   1104** problems
+I have solved **101   /   1104** problems
 while there are **182** problems still locked.
 
 My goal is to solve at least 2 problems per day 
 
 
-Right now I am behind of my daily goals by **41** problems  :worried:
+Right now I am behind of my daily goals by **43** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -189,7 +189,7 @@ Right now I am behind of my daily goals by **41** problems  :worried:
 |174|[dungeon-game](https://leetcode.com/problems/dungeon-game)|||Hard|
 |179|[largest-number](https://leetcode.com/problems/largest-number)||[:memo:](https://leetcode.com/articles/largest-number/)|Medium|
 |186|[reverse-words-in-a-string-ii](https://leetcode.com/problems/reverse-words-in-a-string-ii)|:lock:||Medium|
-|187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)|||Medium|
+|187|[repeated-dna-sequences](https://leetcode.com/problems/repeated-dna-sequences)||[:memo:](https://leetcode.com/articles/repeated-dna-sequences/)|Medium|
 |188|[best-time-to-buy-and-sell-stock-iv](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|||Hard|
 |189|[rotate-array](https://leetcode.com/problems/rotate-array)||[:memo:](https://leetcode.com/articles/rotate-array/)|Easy|
 |190|[reverse-bits](https://leetcode.com/problems/reverse-bits)|||Easy|
@@ -530,7 +530,7 @@ Right now I am behind of my daily goals by **41** problems  :worried:
 |547|[friend-circles](https://leetcode.com/problems/friend-circles)||[:memo:](https://leetcode.com/articles/friend-circles/)|Medium|
 |548|[split-array-with-equal-sum](https://leetcode.com/problems/split-array-with-equal-sum)|:lock:|[:memo:](https://leetcode.com/articles/split-array-with-equal-sum/)|Medium|
 |549|[binary-tree-longest-consecutive-seq...](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence-ii)|:lock:|[:memo:](https://leetcode.com/articles/binary-tree-longest-consecutive-sequence-ii/)|Medium|
-|551|[student-attendance-record-i](https://leetcode.com/problems/student-attendance-record-i)||[:memo:](https://leetcode.com/articles/student-attendance-record-i/)|Easy|
+|551|[student-attendance-record-i](https://leetcode.com/problems/student-attendance-record-i)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0551-student-attendance-record-i/student-attendance-record-i.py)|[:memo:](https://leetcode.com/articles/student-attendance-record-i/)|Easy|
 |552|[student-attendance-record-ii](https://leetcode.com/problems/student-attendance-record-ii)||[:memo:](https://leetcode.com/articles/student-attendance-record-ii/)|Hard|
 |553|[optimal-division](https://leetcode.com/problems/optimal-division)||[:memo:](https://leetcode.com/articles/optimal-division/)|Medium|
 |554|[brick-wall](https://leetcode.com/problems/brick-wall)||[:memo:](https://leetcode.com/articles/brick-wall/)|Medium|
@@ -745,7 +745,7 @@ Right now I am behind of my daily goals by **41** problems  :worried:
 |809|[preimage-size-of-factorial-zeroes-f...](https://leetcode.com/problems/preimage-size-of-factorial-zeroes-function)||[:memo:](https://leetcode.com/articles/preimage-size-of-factorial-zeroes-function/)|Hard|
 |810|[valid-tic-tac-toe-state](https://leetcode.com/problems/valid-tic-tac-toe-state)||[:memo:](https://leetcode.com/articles/valid-tic-tac-toe-state/)|Medium|
 |811|[number-of-subarrays-with-bounded-ma...](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum)||[:memo:](https://leetcode.com/articles/number-of-subarrays-with-bounded-maximum/)|Medium|
-|812|[rotate-string](https://leetcode.com/problems/rotate-string)||[:memo:](https://leetcode.com/articles/rotate-string/)|Easy|
+|812|[rotate-string](https://leetcode.com/problems/rotate-string)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0812-rotate-string/rotate-string.py)|[:memo:](https://leetcode.com/articles/rotate-string/)|Easy|
 |813|[all-paths-from-source-to-target](https://leetcode.com/problems/all-paths-from-source-to-target)||[:memo:](https://leetcode.com/articles/all-paths-from-source-to-target/)|Medium|
 |814|[smallest-rotation-with-highest-scor...](https://leetcode.com/problems/smallest-rotation-with-highest-score)||[:memo:](https://leetcode.com/articles/smallest-rotation-with-highest-score/)|Hard|
 |815|[champagne-tower](https://leetcode.com/problems/champagne-tower)||[:memo:](https://leetcode.com/articles/champagne-tower/)|Medium|
