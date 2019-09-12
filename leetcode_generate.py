@@ -521,7 +521,7 @@ class Leetcode:
         start_unix = 1561953600
         now = datetime.datetime.now()
         start_of_the_day_unix = int(datetime.date(now.year, now.month, now.day).strftime("%s"))
-        goal = ((start_of_the_day_unix - start_unix) / 86400) * 2
+        goal = int(((start_of_the_day_unix - start_unix) / 86400) * (10/7))
 
 
         if self.num_solved > goal:
@@ -539,7 +539,7 @@ Update time:  {tm}
 I have solved **{num_solved}   /   {num_total}** problems
 while there are **{num_lock}** problems still locked.
 
-My goal is to solve at least 2 problems per day \n
+My goal is to solve at least 2 problems per day exclude weekend \n
 
 {goal}
 
