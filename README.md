@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-09-12 11:04:04
+Update time:  2019-09-12 16:51:29
 
-I have solved **103   /   1104** problems
+I have solved **104   /   1104** problems
 while there are **182** problems still locked.
 
 My goal is to solve at least 2 problems per day 
 
 
-Right now I am behind of my daily goals by **43** problems  :worried:
+Right now I am behind of my daily goals by **42** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -153,7 +153,7 @@ Right now I am behind of my daily goals by **43** problems  :worried:
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0138-copy-list-with-random-pointer/copy-list-with-random-pointer.py)|[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
 |139|[word-break](https://leetcode.com/problems/word-break)||[:memo:](https://leetcode.com/articles/word-break/)|Medium|
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
-|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)||[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
+|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[Javascript](https://github.com/iFun/Project-G/blob/master/solutions/0141-linked-list-cycle/linked-list-cycle.js)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)|[Javascript](https://github.com/iFun/Project-G/blob/master/solutions/0142-linked-list-cycle-ii/linked-list-cycle-ii.js)|[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
@@ -378,7 +378,7 @@ Right now I am behind of my daily goals by **43** problems  :worried:
 |380|[insert-delete-getrandom-o1](https://leetcode.com/problems/insert-delete-getrandom-o1)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0380-insert-delete-getrandom-o1/insert-delete-getrandom-o1.py)||Medium|
 |381|[insert-delete-getrandom-o1-duplicat...](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)||[:memo:](https://leetcode.com/articles/insert-delete-getrandom-o1-duplicates-allowed/)|Hard|
 |382|[linked-list-random-node](https://leetcode.com/problems/linked-list-random-node)|||Medium|
-|383|[ransom-note](https://leetcode.com/problems/ransom-note)|||Easy|
+|383|[ransom-note](https://leetcode.com/problems/ransom-note)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0383-ransom-note/ransom-note.py)||Easy|
 |384|[shuffle-an-array](https://leetcode.com/problems/shuffle-an-array)||[:memo:](https://leetcode.com/articles/shuffle-an-array/)|Medium|
 |385|[mini-parser](https://leetcode.com/problems/mini-parser)|||Medium|
 |386|[lexicographical-numbers](https://leetcode.com/problems/lexicographical-numbers)|||Medium|
