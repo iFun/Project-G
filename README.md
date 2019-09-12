@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-09-12 16:51:29
+Update time:  2019-09-12 17:17:24
 
-I have solved **104   /   1104** problems
+I have solved **105   /   1104** problems
 while there are **182** problems still locked.
 
 My goal is to solve at least 2 problems per day 
 
 
-Right now I am behind of my daily goals by **42** problems  :worried:
+Right now I am behind of my daily goals by **41** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -207,7 +207,7 @@ Right now I am behind of my daily goals by **42** problems  :worried:
 |208|[implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0208-implement-trie-prefix-tree/implement-trie-prefix-tree.py)|[:memo:](https://leetcode.com/articles/implement-trie-prefix-tree/)|Medium|
 |209|[minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum)||[:memo:](https://leetcode.com/articles/minimum-size-subarray-sum/)|Medium|
 |210|[course-schedule-ii](https://leetcode.com/problems/course-schedule-ii)||[:memo:](https://leetcode.com/articles/course-schedule-ii/)|Medium|
-|211|[add-and-search-word-data-structure-...](https://leetcode.com/problems/add-and-search-word-data-structure-design)|||Medium|
+|211|[add-and-search-word-data-structure-...](https://leetcode.com/problems/add-and-search-word-data-structure-design)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0211-add-and-search-word-data-structure-design/add-and-search-word-data-structure-design.py)||Medium|
 |212|[word-search-ii](https://leetcode.com/problems/word-search-ii)|||Hard|
 |213|[house-robber-ii](https://leetcode.com/problems/house-robber-ii)|||Medium|
 |214|[shortest-palindrome](https://leetcode.com/problems/shortest-palindrome)||[:memo:](https://leetcode.com/articles/shortest-palindrome/)|Hard|
