@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-09-12 17:23:07
+Update time:  2019-09-16 16:52:35
 
-I have solved **105   /   1104** problems
+I have solved **107   /   1108** problems
 while there are **182** problems still locked.
 
 My goal is to solve at least 2 problems per day exclude weekend 
 
 
-Right now I am exceed of my daily goals by **1** problems  :blush:
+Right now I am behind of my daily goals by **3** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -618,13 +618,13 @@ Right now I am exceed of my daily goals by **1** problems  :blush:
 |671|[second-minimum-node-in-a-binary-tre...](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)||[:memo:](https://leetcode.com/articles/second-minimum-node-in-a-binary-tree/)|Easy|
 |672|[bulb-switcher-ii](https://leetcode.com/problems/bulb-switcher-ii)||[:memo:](https://leetcode.com/articles/bulb-switcher-ii/)|Medium|
 |673|[number-of-longest-increasing-subseq...](https://leetcode.com/problems/number-of-longest-increasing-subsequence)||[:memo:](https://leetcode.com/articles/number-of-longest-increasing-subsequence/)|Medium|
-|674|[longest-continuous-increasing-subse...](https://leetcode.com/problems/longest-continuous-increasing-subsequence)||[:memo:](https://leetcode.com/articles/longest-continuous-increasing-subsequence/)|Easy|
+|674|[longest-continuous-increasing-subse...](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0674-longest-continuous-increasing-subsequence/longest-continuous-increasing-subsequence.py)|[:memo:](https://leetcode.com/articles/longest-continuous-increasing-subsequence/)|Easy|
 |675|[cut-off-trees-for-golf-event](https://leetcode.com/problems/cut-off-trees-for-golf-event)||[:memo:](https://leetcode.com/articles/cutoff-trees-for-golf-event/)|Hard|
 |676|[implement-magic-dictionary](https://leetcode.com/problems/implement-magic-dictionary)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0676-implement-magic-dictionary/implement-magic-dictionary.py)|[:memo:](https://leetcode.com/articles/implement-magic-dictionary/)|Medium|
 |677|[map-sum-pairs](https://leetcode.com/problems/map-sum-pairs)||[:memo:](https://leetcode.com/articles/map-sum-pairs/)|Medium|
 |678|[valid-parenthesis-string](https://leetcode.com/problems/valid-parenthesis-string)||[:memo:](https://leetcode.com/articles/valid-parenthesis-string/)|Medium|
 |679|[24-game](https://leetcode.com/problems/24-game)||[:memo:](https://leetcode.com/articles/24-game/)|Hard|
-|680|[valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii)||[:memo:](https://leetcode.com/articles/valid-palindrome-ii/)|Easy|
+|680|[valid-palindrome-ii](https://leetcode.com/problems/valid-palindrome-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0680-valid-palindrome-ii/valid-palindrome-ii.py)|[:memo:](https://leetcode.com/articles/valid-palindrome-ii/)|Easy|
 |681|[next-closest-time](https://leetcode.com/problems/next-closest-time)|:lock:|[:memo:](https://leetcode.com/articles/next-closest-time/)|Medium|
 |682|[baseball-game](https://leetcode.com/problems/baseball-game)||[:memo:](https://leetcode.com/articles/baseball-game/)|Easy|
 |683|[k-empty-slots](https://leetcode.com/problems/k-empty-slots)|:lock:|[:memo:](https://leetcode.com/articles/k-empty-slots/)|Hard|
@@ -716,7 +716,7 @@ Right now I am exceed of my daily goals by **1** problems  :blush:
 |780|[max-chunks-to-make-sorted](https://leetcode.com/problems/max-chunks-to-make-sorted)||[:memo:](https://leetcode.com/articles/max-chunks-to-make-sorted-i/)|Medium|
 |781|[basic-calculator-iv](https://leetcode.com/problems/basic-calculator-iv)||[:memo:](https://leetcode.com/articles/basic-calculator-iv/)|Hard|
 |782|[jewels-and-stones](https://leetcode.com/problems/jewels-and-stones)||[:memo:](https://leetcode.com/articles/jewels-and-stones/)|Easy|
-|783|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)|||Easy|
+|783|[search-in-a-binary-search-tree](https://leetcode.com/problems/search-in-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/search-in-a-bst/)|Easy|
 |784|[insert-into-a-binary-search-tree](https://leetcode.com/problems/insert-into-a-binary-search-tree)||[:memo:](https://leetcode.com/articles/insert-into-a-bst/)|Medium|
 |785|[basic-calculator-iii](https://leetcode.com/problems/basic-calculator-iii)|:lock:||Hard|
 |786|[search-in-a-sorted-array-of-unknown...](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size)|:lock:||Medium|
@@ -1117,3 +1117,7 @@ Right now I am exceed of my daily goals by **1** problems  :blush:
 |1288|[maximum-subarray-sum-with-one-delet...](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion)|||Medium|
 |1289|[day-of-the-week](https://leetcode.com/problems/day-of-the-week)|||Easy|
 |1290|[make-array-strictly-increasing](https://leetcode.com/problems/make-array-strictly-increasing)|||Hard|
+|1297|[maximum-number-of-balloons](https://leetcode.com/problems/maximum-number-of-balloons)|||Easy|
+|1298|[reverse-substrings-between-each-pai...](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)|||Medium|
+|1299|[k-concatenation-maximum-sum](https://leetcode.com/problems/k-concatenation-maximum-sum)|||Medium|
+|1300|[critical-connections-in-a-network](https://leetcode.com/problems/critical-connections-in-a-network)|||Hard|
