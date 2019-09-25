@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-09-25 16:29:18
+Update time:  2019-09-25 16:45:57
 
-I have solved **117   /   1116** problems
+I have solved **118   /   1116** problems
 while there are **186** problems still locked.
 
 My goal is to solve at least 2 problems per day exclude weekend 
 
 
-Right now I am behind of my daily goals by **5** problems  :worried:
+Right now I am behind of my daily goals by **4** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -120,7 +120,7 @@ Right now I am behind of my daily goals by **5** problems  :worried:
 |105|[construct-binary-tree-from-preorder...](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
 |106|[construct-binary-tree-from-inorder-...](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-inorder-and-postorder-t/)|Medium|
 |107|[binary-tree-level-order-traversal-i...](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|||Easy|
-|108|[convert-sorted-array-to-binary-sear...](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|||Easy|
+|108|[convert-sorted-array-to-binary-sear...](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.py)||Easy|
 |109|[convert-sorted-list-to-binary-searc...](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)||[:memo:](https://leetcode.com/articles/convert-sorted-list-to-binary-search-tree/)|Medium|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|||Easy|
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)||[:memo:](https://leetcode.com/articles/minimum-depth-of-binary-tree/)|Easy|
