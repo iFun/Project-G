@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-09-24 16:53:20
+Update time:  2019-09-25 16:29:18
 
-I have solved **115   /   1116** problems
+I have solved **117   /   1116** problems
 while there are **186** problems still locked.
 
 My goal is to solve at least 2 problems per day exclude weekend 
 
 
-Right now I am behind of my daily goals by **6** problems  :worried:
+Right now I am behind of my daily goals by **5** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -125,7 +125,7 @@ Right now I am behind of my daily goals by **6** problems  :worried:
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|||Easy|
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)||[:memo:](https://leetcode.com/articles/minimum-depth-of-binary-tree/)|Easy|
 |112|[path-sum](https://leetcode.com/problems/path-sum)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0112-path-sum/path-sum.py)|[:memo:](https://leetcode.com/articles/path-sum/)|Easy|
-|113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|||Medium|
+|113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0113-path-sum-ii/path-sum-ii.py)||Medium|
 |114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|||Medium|
 |115|[distinct-subsequences](https://leetcode.com/problems/distinct-subsequences)|||Hard|
 |116|[populating-next-right-pointers-in-e...](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|||Medium|
@@ -141,7 +141,7 @@ Right now I am behind of my daily goals by **6** problems  :worried:
 |126|[word-ladder-ii](https://leetcode.com/problems/word-ladder-ii)|||Hard|
 |127|[word-ladder](https://leetcode.com/problems/word-ladder)||[:memo:](https://leetcode.com/articles/word-ladder/)|Medium|
 |128|[longest-consecutive-sequence](https://leetcode.com/problems/longest-consecutive-sequence)||[:memo:](https://leetcode.com/articles/longest-consecutive-sequence/)|Hard|
-|129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|||Medium|
+|129|[sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0129-sum-root-to-leaf-numbers/sum-root-to-leaf-numbers.py)||Medium|
 |130|[surrounded-regions](https://leetcode.com/problems/surrounded-regions)|||Medium|
 |131|[palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning)|||Medium|
 |132|[palindrome-partitioning-ii](https://leetcode.com/problems/palindrome-partitioning-ii)|||Hard|
