@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-09-25 16:45:57
+Update time:  2019-09-30 17:26:58
 
-I have solved **118   /   1116** problems
+I have solved **119   /   1121** problems
 while there are **186** problems still locked.
 
 My goal is to solve at least 2 problems per day exclude weekend 
 
 
-Right now I am behind of my daily goals by **4** problems  :worried:
+Right now I am behind of my daily goals by **11** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -123,7 +123,7 @@ Right now I am behind of my daily goals by **4** problems  :worried:
 |108|[convert-sorted-array-to-binary-sear...](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.py)||Easy|
 |109|[convert-sorted-list-to-binary-searc...](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)||[:memo:](https://leetcode.com/articles/convert-sorted-list-to-binary-search-tree/)|Medium|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|||Easy|
-|111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)||[:memo:](https://leetcode.com/articles/minimum-depth-of-binary-tree/)|Easy|
+|111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py)|[:memo:](https://leetcode.com/articles/minimum-depth-of-binary-tree/)|Easy|
 |112|[path-sum](https://leetcode.com/problems/path-sum)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0112-path-sum/path-sum.py)|[:memo:](https://leetcode.com/articles/path-sum/)|Easy|
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0113-path-sum-ii/path-sum-ii.py)||Medium|
 |114|[flatten-binary-tree-to-linked-list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list)|||Medium|
@@ -199,7 +199,7 @@ Right now I am behind of my daily goals by **4** problems  :worried:
 |200|[number-of-islands](https://leetcode.com/problems/number-of-islands)||[:memo:](https://leetcode.com/articles/number-of-islands/)|Medium|
 |201|[bitwise-and-of-numbers-range](https://leetcode.com/problems/bitwise-and-of-numbers-range)|||Medium|
 |202|[happy-number](https://leetcode.com/problems/happy-number)|||Easy|
-|203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0203-remove-linked-list-elements/remove-linked-list-elements.py)||Easy|
+|203|[remove-linked-list-elements](https://leetcode.com/problems/remove-linked-list-elements)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0203-remove-linked-list-elements/remove-linked-list-elements.py)|[:memo:](https://leetcode.com/articles/remove-linked-list-elements/)|Easy|
 |204|[count-primes](https://leetcode.com/problems/count-primes)|||Easy|
 |205|[isomorphic-strings](https://leetcode.com/problems/isomorphic-strings)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0205-isomorphic-strings/isomorphic-strings.py)||Easy|
 |206|[reverse-linked-list](https://leetcode.com/problems/reverse-linked-list)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0206-reverse-linked-list/reverse-linked-list.py)|[:memo:](https://leetcode.com/articles/reverse-linked-list/)|Easy|
@@ -1072,7 +1072,7 @@ Right now I am behind of my daily goals by **4** problems  :worried:
 |1159|[smallest-subsequence-of-distinct-ch...](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|||Medium|
 |1160|[letter-tile-possibilities](https://leetcode.com/problems/letter-tile-possibilities)|||Medium|
 |1167|[minimum-time-to-build-blocks](https://leetcode.com/problems/minimum-time-to-build-blocks)|:lock:||Hard|
-|1168|[duplicate-zeros](https://leetcode.com/problems/duplicate-zeros)|||Easy|
+|1168|[duplicate-zeros](https://leetcode.com/problems/duplicate-zeros)||[:memo:](https://leetcode.com/articles/duplicate-zeros/)|Easy|
 |1169|[largest-values-from-labels](https://leetcode.com/problems/largest-values-from-labels)|||Medium|
 |1170|[shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence)|||Hard|
 |1171|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|||Medium|
@@ -1129,3 +1129,8 @@ Right now I am behind of my daily goals by **4** problems  :worried:
 |1307|[ugly-number-iii](https://leetcode.com/problems/ugly-number-iii)|||Medium|
 |1308|[smallest-string-with-swaps](https://leetcode.com/problems/smallest-string-with-swaps)|||Medium|
 |1309|[sort-items-by-groups-respecting-dep...](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies)|||Hard|
+|1319|[unique-number-of-occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|||Easy|
+|1320|[remove-all-adjacent-duplicates-in-s...](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)|||Medium|
+|1321|[get-equal-substrings-within-budget](https://leetcode.com/problems/get-equal-substrings-within-budget)|||Medium|
+|1322|[minimum-moves-to-reach-target-with-...](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)|||Hard|
+|1337|[design-skiplist](https://leetcode.com/problems/design-skiplist)|||Hard|
