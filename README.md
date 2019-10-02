@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-09-30 17:26:58
+Update time:  2019-10-02 16:11:03
 
-I have solved **119   /   1121** problems
+I have solved **122   /   1121** problems
 while there are **186** problems still locked.
 
 My goal is to solve at least 2 problems per day exclude weekend 
 
 
-Right now I am behind of my daily goals by **11** problems  :worried:
+Right now I am behind of my daily goals by **10** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -114,7 +114,7 @@ Right now I am behind of my daily goals by **11** problems  :worried:
 |99|[recover-binary-search-tree](https://leetcode.com/problems/recover-binary-search-tree)||[:memo:](https://leetcode.com/articles/recover-binary-search-tree/)|Hard|
 |100|[same-tree](https://leetcode.com/problems/same-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0100-same-tree/same-tree.py)|[:memo:](https://leetcode.com/articles/same-tree/)|Easy|
 |101|[symmetric-tree](https://leetcode.com/problems/symmetric-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0101-symmetric-tree/symmetric-tree.py)|[:memo:](https://leetcode.com/articles/symmetric-tree/)|Easy|
-|102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal/)|Medium|
+|102|[binary-tree-level-order-traversal](https://leetcode.com/problems/binary-tree-level-order-traversal)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0102-binary-tree-level-order-traversal/binary-tree-level-order-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-level-order-traversal/)|Medium|
 |103|[binary-tree-zigzag-level-order-trav...](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal)|||Medium|
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py)|[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
 |105|[construct-binary-tree-from-preorder...](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
@@ -222,7 +222,7 @@ Right now I am behind of my daily goals by **11** problems  :worried:
 |223|[rectangle-area](https://leetcode.com/problems/rectangle-area)|||Medium|
 |224|[basic-calculator](https://leetcode.com/problems/basic-calculator)||[:memo:](https://leetcode.com/articles/basic-calculator/)|Hard|
 |225|[implement-stack-using-queues](https://leetcode.com/problems/implement-stack-using-queues)||[:memo:](https://leetcode.com/articles/implement-stack-using-queues/)|Easy|
-|226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)||[:memo:](https://leetcode.com/articles/invert-binary-tree/)|Easy|
+|226|[invert-binary-tree](https://leetcode.com/problems/invert-binary-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0226-invert-binary-tree/invert-binary-tree.py)|[:memo:](https://leetcode.com/articles/invert-binary-tree/)|Easy|
 |227|[basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)|||Medium|
 |228|[summary-ranges](https://leetcode.com/problems/summary-ranges)||[:memo:](https://leetcode.com/articles/summary-ranges/)|Medium|
 |229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|||Medium|
@@ -697,7 +697,7 @@ Right now I am behind of my daily goals by **11** problems  :worried:
 |761|[employee-free-time](https://leetcode.com/problems/employee-free-time)|:lock:|[:memo:](https://leetcode.com/articles/employee-free-time/)|Hard|
 |762|[find-anagram-mappings](https://leetcode.com/problems/find-anagram-mappings)|:lock:|[:memo:](https://leetcode.com/articles/find-anagram-mappings/)|Easy|
 |763|[special-binary-string](https://leetcode.com/problems/special-binary-string)||[:memo:](https://leetcode.com/articles/special-binary-string/)|Hard|
-|764|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|||Easy|
+|764|[n-ary-tree-level-order-traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0764-n-ary-tree-level-order-traversal/n-ary-tree-level-order-traversal.py)||Easy|
 |765|[serialize-and-deserialize-n-ary-tre...](https://leetcode.com/problems/serialize-and-deserialize-n-ary-tree)|:lock:||Hard|
 |766|[flatten-a-multilevel-doubly-linked-...](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list)|||Medium|
 |767|[prime-number-of-set-bits-in-binary-...](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)||[:memo:](https://leetcode.com/articles/prime-number-of-set-bits-in-binary-representation/)|Easy|
