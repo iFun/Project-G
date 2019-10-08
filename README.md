@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-10-02 16:11:03
+Update time:  2019-10-08 16:44:43
 
-I have solved **122   /   1121** problems
-while there are **186** problems still locked.
+I have solved **125   /   1129** problems
+while there are **190** problems still locked.
 
 My goal is to solve at least 2 problems per day exclude weekend 
 
 
-Right now I am behind of my daily goals by **10** problems  :worried:
+Right now I am behind of my daily goals by **16** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -119,7 +119,7 @@ Right now I am behind of my daily goals by **10** problems  :worried:
 |104|[maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0104-maximum-depth-of-binary-tree/maximum-depth-of-binary-tree.py)|[:memo:](https://leetcode.com/articles/maximum-depth-of-binary-tree/)|Easy|
 |105|[construct-binary-tree-from-preorder...](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-preorder-and-inorder-tr/)|Medium|
 |106|[construct-binary-tree-from-inorder-...](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal)||[:memo:](https://leetcode.com/articles/construct-binary-tree-from-inorder-and-postorder-t/)|Medium|
-|107|[binary-tree-level-order-traversal-i...](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|||Easy|
+|107|[binary-tree-level-order-traversal-i...](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0107-binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.py)||Easy|
 |108|[convert-sorted-array-to-binary-sear...](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.py)||Easy|
 |109|[convert-sorted-list-to-binary-searc...](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)||[:memo:](https://leetcode.com/articles/convert-sorted-list-to-binary-search-tree/)|Medium|
 |110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|||Easy|
@@ -156,8 +156,8 @@ Right now I am behind of my daily goals by **10** problems  :worried:
 |141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[Javascript](https://github.com/iFun/Project-G/blob/master/solutions/0141-linked-list-cycle/linked-list-cycle.js)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)|[Javascript](https://github.com/iFun/Project-G/blob/master/solutions/0142-linked-list-cycle-ii/linked-list-cycle-ii.js)|[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
-|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
-|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)||[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
+|144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
+|145|[binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0145-binary-tree-postorder-traversal/binary-tree-postorder-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-postorder-transversal/)|Hard|
 |146|[lru-cache](https://leetcode.com/problems/lru-cache)||[:memo:](https://leetcode.com/articles/lru-cache/)|Medium|
 |147|[insertion-sort-list](https://leetcode.com/problems/insertion-sort-list)|[Javascript](https://github.com/iFun/Project-G/blob/master/solutions/0147-insertion-sort-list/insertion-sort-list.js)||Medium|
 |148|[sort-list](https://leetcode.com/problems/sort-list)|||Medium|
@@ -341,7 +341,7 @@ Right now I am behind of my daily goals by **10** problems  :worried:
 |343|[integer-break](https://leetcode.com/problems/integer-break)|||Medium|
 |344|[reverse-string](https://leetcode.com/problems/reverse-string)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0344-reverse-string/reverse-string.py)||Easy|
 |345|[reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)|||Easy|
-|346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:||Easy|
+|346|[moving-average-from-data-stream](https://leetcode.com/problems/moving-average-from-data-stream)|:lock:|[:memo:](https://leetcode.com/articles/moving-average-from-data-stream/)|Easy|
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0347-top-k-frequent-elements/top-k-frequent-elements.py)|[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
 |348|[design-tic-tac-toe](https://leetcode.com/problems/design-tic-tac-toe)|:lock:||Medium|
 |349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0349-intersection-of-two-arrays/intersection-of-two-arrays.py)|[:memo:](https://leetcode.com/articles/intersection-of-two-arrays/)|Easy|
@@ -771,7 +771,7 @@ Right now I am behind of my daily goals by **10** problems  :worried:
 |835|[linked-list-components](https://leetcode.com/problems/linked-list-components)||[:memo:](https://leetcode.com/articles/linked-list-components/)|Medium|
 |836|[race-car](https://leetcode.com/problems/race-car)||[:memo:](https://leetcode.com/articles/race-car/)|Hard|
 |837|[most-common-word](https://leetcode.com/problems/most-common-word)||[:memo:](https://leetcode.com/articles/most-common-word/)|Easy|
-|838|[design-linked-list](https://leetcode.com/problems/design-linked-list)|||Easy|
+|838|[design-linked-list](https://leetcode.com/problems/design-linked-list)||[:memo:](https://leetcode.com/articles/design-linked-list/)|Easy|
 |839|[short-encoding-of-words](https://leetcode.com/problems/short-encoding-of-words)||[:memo:](https://leetcode.com/articles/short-encoding-of-words/)|Medium|
 |841|[shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character)||[:memo:](https://leetcode.com/articles/shortest-distance-to-a-character/)|Easy|
 |842|[card-flipping-game](https://leetcode.com/problems/card-flipping-game)||[:memo:](https://leetcode.com/articles/card-flipping-game/)|Medium|
@@ -1066,6 +1066,9 @@ Right now I am behind of my daily goals by **10** problems  :worried:
 |1146|[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|||Easy|
 |1147|[flip-columns-for-maximum-number-of-...](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows)|||Medium|
 |1148|[adding-two-negabinary-numbers](https://leetcode.com/problems/adding-two-negabinary-numbers)|||Medium|
+|1149|[intersection-of-three-sorted-arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays)|:lock:||Easy|
+|1150|[two-sum-bsts](https://leetcode.com/problems/two-sum-bsts)|:lock:||Medium|
+|1151|[stepping-numbers](https://leetcode.com/problems/stepping-numbers)|:lock:||Medium|
 |1152|[maximum-number-of-ones](https://leetcode.com/problems/maximum-number-of-ones)|:lock:||Hard|
 |1156|[occurrences-after-bigram](https://leetcode.com/problems/occurrences-after-bigram)|||Easy|
 |1157|[insufficient-nodes-in-root-to-leaf-...](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
@@ -1076,6 +1079,7 @@ Right now I am behind of my daily goals by **10** problems  :worried:
 |1169|[largest-values-from-labels](https://leetcode.com/problems/largest-values-from-labels)|||Medium|
 |1170|[shortest-common-supersequence](https://leetcode.com/problems/shortest-common-supersequence)|||Hard|
 |1171|[shortest-path-in-binary-matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix)|||Medium|
+|1178|[valid-palindrome-iii](https://leetcode.com/problems/valid-palindrome-iii)|:lock:||Hard|
 |1183|[statistics-from-a-large-sample](https://leetcode.com/problems/statistics-from-a-large-sample)|||Medium|
 |1184|[car-pooling](https://leetcode.com/problems/car-pooling)|||Medium|
 |1185|[find-in-mountain-array](https://leetcode.com/problems/find-in-mountain-array)|||Hard|
@@ -1133,4 +1137,8 @@ Right now I am behind of my daily goals by **10** problems  :worried:
 |1320|[remove-all-adjacent-duplicates-in-s...](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)|||Medium|
 |1321|[get-equal-substrings-within-budget](https://leetcode.com/problems/get-equal-substrings-within-budget)|||Medium|
 |1322|[minimum-moves-to-reach-target-with-...](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)|||Hard|
+|1329|[play-with-chips](https://leetcode.com/problems/play-with-chips)|||Easy|
+|1330|[longest-arithmetic-subsequence-of-g...](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference)|||Medium|
+|1331|[path-with-maximum-gold](https://leetcode.com/problems/path-with-maximum-gold)|||Medium|
+|1332|[count-vowels-permutation](https://leetcode.com/problems/count-vowels-permutation)|||Hard|
 |1337|[design-skiplist](https://leetcode.com/problems/design-skiplist)|||Hard|
