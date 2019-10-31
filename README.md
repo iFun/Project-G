@@ -1,15 +1,15 @@
-# :coffee: Leetcode Solutions with Python,Python3,Javascript :coffee:
+# :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-10-16 23:26:11
+Update time:  2019-10-31 14:57:00
 
-I have solved **137   /   1133** problems
-while there are **190** problems still locked.
+I have solved **142   /   1147** problems
+while there are **195** problems still locked.
 
 My goal is to solve at least 2 problems per day exclude weekend 
 
 
-Right now I am behind of my daily goals by **15** problems  :worried:
+Right now I am behind of my daily goals by **32** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -35,7 +35,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |20|[valid-parentheses](https://leetcode.com/problems/valid-parentheses)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0020-valid-parentheses/valid-parentheses.py)|[:memo:](https://leetcode.com/articles/valid-parentheses/)|Easy|
 |21|[merge-two-sorted-lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0021-merge-two-sorted-lists/merge-two-sorted-lists.py)|[:memo:](https://leetcode.com/articles/merged-two-sorted-lists/)|Easy|
 |22|[generate-parentheses](https://leetcode.com/problems/generate-parentheses)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0022-generate-parentheses/generate-parentheses.py)|[:memo:](https://leetcode.com/articles/generate-parentheses/)|Medium|
-|23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)|[Python](https://github.com/iFun/Project-G/blob/master/solutions/0023-merge-k-sorted-lists/merge-k-sorted-lists.py)|[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
+|23|[merge-k-sorted-lists](https://leetcode.com/problems/merge-k-sorted-lists)||[:memo:](https://leetcode.com/articles/merge-k-sorted-list/)|Hard|
 |24|[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0024-swap-nodes-in-pairs/swap-nodes-in-pairs.py)||Medium|
 |25|[reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group)|||Hard|
 |26|[remove-duplicates-from-sorted-array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0026-remove-duplicates-from-sorted-array/remove-duplicates-from-sorted-array.py)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-array/)|Easy|
@@ -79,7 +79,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |64|[minimum-path-sum](https://leetcode.com/problems/minimum-path-sum)||[:memo:](https://leetcode.com/articles/minimum-path-sum/)|Medium|
 |65|[valid-number](https://leetcode.com/problems/valid-number)|||Hard|
 |66|[plus-one](https://leetcode.com/problems/plus-one)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0066-plus-one/plus-one.py)||Easy|
-|67|[add-binary](https://leetcode.com/problems/add-binary)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0067-add-binary/add-binary.py)||Easy|
+|67|[add-binary](https://leetcode.com/problems/add-binary)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0067-add-binary/add-binary.py)|[:memo:](https://leetcode.com/articles/add-binary/)|Easy|
 |68|[text-justification](https://leetcode.com/problems/text-justification)|||Hard|
 |69|[sqrtx](https://leetcode.com/problems/sqrtx)||[:memo:](https://leetcode.com/articles/sqrtx/)|Easy|
 |70|[climbing-stairs](https://leetcode.com/problems/climbing-stairs)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0070-climbing-stairs/climbing-stairs.py)|[:memo:](https://leetcode.com/articles/climbing-stairs/)|Easy|
@@ -92,7 +92,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |77|[combinations](https://leetcode.com/problems/combinations)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0077-combinations/combinations.py)|[:memo:](https://leetcode.com/articles/combinations/)|Medium|
 |78|[subsets](https://leetcode.com/problems/subsets)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0078-subsets/subsets.py)||Medium|
 |79|[word-search](https://leetcode.com/problems/word-search)|||Medium|
-|80|[remove-duplicates-from-sorted-array...](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)|||Medium|
+|80|[remove-duplicates-from-sorted-array...](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii)||[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-array-ii/)|Medium|
 |81|[search-in-rotated-sorted-array-ii](https://leetcode.com/problems/search-in-rotated-sorted-array-ii)|||Medium|
 |82|[remove-duplicates-from-sorted-list-...](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0082-remove-duplicates-from-sorted-list-ii/remove-duplicates-from-sorted-list-ii.py)||Medium|
 |83|[remove-duplicates-from-sorted-list](https://leetcode.com/problems/remove-duplicates-from-sorted-list)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0083-remove-duplicates-from-sorted-list/remove-duplicates-from-sorted-list.py)|[:memo:](https://leetcode.com/articles/remove-duplicates-from-sorted-list/)|Easy|
@@ -122,7 +122,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |107|[binary-tree-level-order-traversal-i...](https://leetcode.com/problems/binary-tree-level-order-traversal-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0107-binary-tree-level-order-traversal-ii/binary-tree-level-order-traversal-ii.py)||Easy|
 |108|[convert-sorted-array-to-binary-sear...](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0108-convert-sorted-array-to-binary-search-tree/convert-sorted-array-to-binary-search-tree.py)||Easy|
 |109|[convert-sorted-list-to-binary-searc...](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)||[:memo:](https://leetcode.com/articles/convert-sorted-list-to-binary-search-tree/)|Medium|
-|110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)|||Easy|
+|110|[balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree)||[:memo:](https://leetcode.com/articles/balanced-binary-tree/)|Easy|
 |111|[minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0111-minimum-depth-of-binary-tree/minimum-depth-of-binary-tree.py)|[:memo:](https://leetcode.com/articles/minimum-depth-of-binary-tree/)|Easy|
 |112|[path-sum](https://leetcode.com/problems/path-sum)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0112-path-sum/path-sum.py)|[:memo:](https://leetcode.com/articles/path-sum/)|Easy|
 |113|[path-sum-ii](https://leetcode.com/problems/path-sum-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0113-path-sum-ii/path-sum-ii.py)||Medium|
@@ -153,7 +153,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |138|[copy-list-with-random-pointer](https://leetcode.com/problems/copy-list-with-random-pointer)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0138-copy-list-with-random-pointer/copy-list-with-random-pointer.py)|[:memo:](https://leetcode.com/articles/copy-list-with-random-pointer/)|Medium|
 |139|[word-break](https://leetcode.com/problems/word-break)||[:memo:](https://leetcode.com/articles/word-break/)|Medium|
 |140|[word-break-ii](https://leetcode.com/problems/word-break-ii)||[:memo:](https://leetcode.com/articles/word-break-ii/)|Hard|
-|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[Python](https://github.com/iFun/Project-G/blob/master/solutions/0141-linked-list-cycle/linked-list-cycle.py) [Javascript](https://github.com/iFun/Project-G/blob/master/solutions/0141-linked-list-cycle/linked-list-cycle.js)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
+|141|[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)|[Javascript](https://github.com/iFun/Project-G/blob/master/solutions/0141-linked-list-cycle/linked-list-cycle.js)|[:memo:](https://leetcode.com/articles/linked-list-cycle/)|Easy|
 |142|[linked-list-cycle-ii](https://leetcode.com/problems/linked-list-cycle-ii)|[Javascript](https://github.com/iFun/Project-G/blob/master/solutions/0142-linked-list-cycle-ii/linked-list-cycle-ii.js)|[:memo:](https://leetcode.com/articles/linked-list-cycle-ii/)|Medium|
 |143|[reorder-list](https://leetcode.com/problems/reorder-list)|||Medium|
 |144|[binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0144-binary-tree-preorder-traversal/binary-tree-preorder-traversal.py)|[:memo:](https://leetcode.com/articles/binary-tree-preorder-transversal/)|Medium|
@@ -226,7 +226,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |227|[basic-calculator-ii](https://leetcode.com/problems/basic-calculator-ii)|||Medium|
 |228|[summary-ranges](https://leetcode.com/problems/summary-ranges)||[:memo:](https://leetcode.com/articles/summary-ranges/)|Medium|
 |229|[majority-element-ii](https://leetcode.com/problems/majority-element-ii)|||Medium|
-|230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)||[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-bst/)|Medium|
+|230|[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0230-kth-smallest-element-in-a-bst/kth-smallest-element-in-a-bst.py)|[:memo:](https://leetcode.com/articles/kth-smallest-element-in-a-bst/)|Medium|
 |231|[power-of-two](https://leetcode.com/problems/power-of-two)||[:memo:](https://leetcode.com/articles/power-of-two/)|Easy|
 |232|[implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks)||[:memo:](https://leetcode.com/articles/implement-queue-using-stacks/)|Easy|
 |233|[number-of-digit-one](https://leetcode.com/problems/number-of-digit-one)||[:memo:](https://leetcode.com/articles/number-of-digit-one/)|Hard|
@@ -345,7 +345,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |347|[top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0347-top-k-frequent-elements/top-k-frequent-elements.py)|[:memo:](https://leetcode.com/articles/top-k-frequent-elements/)|Medium|
 |348|[design-tic-tac-toe](https://leetcode.com/problems/design-tic-tac-toe)|:lock:||Medium|
 |349|[intersection-of-two-arrays](https://leetcode.com/problems/intersection-of-two-arrays)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0349-intersection-of-two-arrays/intersection-of-two-arrays.py)|[:memo:](https://leetcode.com/articles/intersection-of-two-arrays/)|Easy|
-|350|[intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.py)||Easy|
+|350|[intersection-of-two-arrays-ii](https://leetcode.com/problems/intersection-of-two-arrays-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0350-intersection-of-two-arrays-ii/intersection-of-two-arrays-ii.py)|[:memo:](https://leetcode.com/articles/intersection-of-two-arrays-ii/)|Easy|
 |351|[android-unlock-patterns](https://leetcode.com/problems/android-unlock-patterns)|:lock:|[:memo:](https://leetcode.com/articles/android-unlock-patterns/)|Medium|
 |352|[data-stream-as-disjoint-intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals)|||Hard|
 |353|[design-snake-game](https://leetcode.com/problems/design-snake-game)|:lock:||Medium|
@@ -362,7 +362,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |364|[nested-list-weight-sum-ii](https://leetcode.com/problems/nested-list-weight-sum-ii)|:lock:||Medium|
 |365|[water-and-jug-problem](https://leetcode.com/problems/water-and-jug-problem)|||Medium|
 |366|[find-leaves-of-binary-tree](https://leetcode.com/problems/find-leaves-of-binary-tree)|:lock:||Medium|
-|367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square)|||Easy|
+|367|[valid-perfect-square](https://leetcode.com/problems/valid-perfect-square)||[:memo:](https://leetcode.com/articles/valid-perfect-square/)|Easy|
 |368|[largest-divisible-subset](https://leetcode.com/problems/largest-divisible-subset)||[:memo:](https://leetcode.com/articles/largest-divisible-subset/)|Medium|
 |369|[plus-one-linked-list](https://leetcode.com/problems/plus-one-linked-list)|:lock:||Medium|
 |370|[range-addition](https://leetcode.com/problems/range-addition)|:lock:|[:memo:](https://leetcode.com/articles/range-addition/)|Medium|
@@ -420,7 +420,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |422|[valid-word-square](https://leetcode.com/problems/valid-word-square)|:lock:||Easy|
 |423|[reconstruct-original-digits-from-en...](https://leetcode.com/problems/reconstruct-original-digits-from-english)||[:memo:](https://leetcode.com/articles/reconstruct-original-digits-from-english/)|Medium|
 |424|[longest-repeating-character-replace...](https://leetcode.com/problems/longest-repeating-character-replacement)|||Medium|
-|425|[word-squares](https://leetcode.com/problems/word-squares)|:lock:||Hard|
+|425|[word-squares](https://leetcode.com/problems/word-squares)|:lock:|[:memo:](https://leetcode.com/articles/word-squares/)|Hard|
 |432|[all-oone-data-structure](https://leetcode.com/problems/all-oone-data-structure)|||Hard|
 |433|[minimum-genetic-mutation](https://leetcode.com/problems/minimum-genetic-mutation)|||Medium|
 |434|[number-of-segments-in-a-string](https://leetcode.com/problems/number-of-segments-in-a-string)||[:memo:](https://leetcode.com/articles/number-of-segments-in-a-string/)|Easy|
@@ -472,7 +472,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |482|[license-key-formatting](https://leetcode.com/problems/license-key-formatting)|||Easy|
 |483|[smallest-good-base](https://leetcode.com/problems/smallest-good-base)|||Hard|
 |484|[find-permutation](https://leetcode.com/problems/find-permutation)|:lock:|[:memo:](https://leetcode.com/articles/find-permutation/)|Medium|
-|485|[max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0485-max-consecutive-ones/max-consecutive-ones.py)||Easy|
+|485|[max-consecutive-ones](https://leetcode.com/problems/max-consecutive-ones)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0485-max-consecutive-ones/max-consecutive-ones.py)|[:memo:](https://leetcode.com/articles/max-consecutive-ones/)|Easy|
 |486|[predict-the-winner](https://leetcode.com/problems/predict-the-winner)||[:memo:](https://leetcode.com/articles/predict-the-winner/)|Medium|
 |487|[max-consecutive-ones-ii](https://leetcode.com/problems/max-consecutive-ones-ii)|:lock:||Medium|
 |488|[zuma-game](https://leetcode.com/problems/zuma-game)|||Hard|
@@ -511,16 +511,16 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |526|[beautiful-arrangement](https://leetcode.com/problems/beautiful-arrangement)||[:memo:](https://leetcode.com/articles/beautiful-arrangement/)|Medium|
 |527|[word-abbreviation](https://leetcode.com/problems/word-abbreviation)|:lock:|[:memo:](https://leetcode.com/articles/word-abbreviation/)|Hard|
 |529|[minesweeper](https://leetcode.com/problems/minesweeper)|||Medium|
-|530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|||Easy|
+|530|[minimum-absolute-difference-in-bst](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0530-minimum-absolute-difference-in-bst/minimum-absolute-difference-in-bst.py)||Easy|
 |531|[lonely-pixel-i](https://leetcode.com/problems/lonely-pixel-i)|:lock:||Medium|
 |532|[k-diff-pairs-in-an-array](https://leetcode.com/problems/k-diff-pairs-in-an-array)|||Easy|
 |533|[lonely-pixel-ii](https://leetcode.com/problems/lonely-pixel-ii)|:lock:||Medium|
 |535|[encode-and-decode-tinyurl](https://leetcode.com/problems/encode-and-decode-tinyurl)|[Javascript](https://github.com/iFun/Project-G/blob/master/solutions/0535-encode-and-decode-tinyurl/encode-and-decode-tinyurl.js)|[:memo:](https://leetcode.com/articles/encode-and-decode-tinyurl/)|Medium|
 |536|[construct-binary-tree-from-string](https://leetcode.com/problems/construct-binary-tree-from-string)|:lock:||Medium|
 |537|[complex-number-multiplication](https://leetcode.com/problems/complex-number-multiplication)||[:memo:](https://leetcode.com/articles/complex-number-multiplication/)|Medium|
-|538|[convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree)||[:memo:](https://leetcode.com/articles/convert-bst-to-greater-tree/)|Easy|
+|538|[convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0538-convert-bst-to-greater-tree/convert-bst-to-greater-tree.py)|[:memo:](https://leetcode.com/articles/convert-bst-to-greater-tree/)|Easy|
 |539|[minimum-time-difference](https://leetcode.com/problems/minimum-time-difference)|||Medium|
-|540|[single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array)|||Medium|
+|540|[single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array)||[:memo:](https://leetcode.com/articles/single-element-in-a-sorted-array/)|Medium|
 |541|[reverse-string-ii](https://leetcode.com/problems/reverse-string-ii)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0541-reverse-string-ii/reverse-string-ii.py)|[:memo:](https://leetcode.com/articles/reverse-string-ii/)|Easy|
 |542|[01-matrix](https://leetcode.com/problems/01-matrix)||[:memo:](https://leetcode.com/articles/01-matrix/)|Medium|
 |543|[diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree)||[:memo:](https://leetcode.com/articles/diameter-of-binary-tree/)|Easy|
@@ -546,7 +546,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |566|[reshape-the-matrix](https://leetcode.com/problems/reshape-the-matrix)||[:memo:](https://leetcode.com/articles/reshape-the-matrix/)|Easy|
 |567|[permutation-in-string](https://leetcode.com/problems/permutation-in-string)||[:memo:](https://leetcode.com/articles/short-permutation-in-a-long-string/)|Medium|
 |568|[maximum-vacation-days](https://leetcode.com/problems/maximum-vacation-days)|:lock:|[:memo:](https://leetcode.com/articles/maximum-vacation-days/)|Hard|
-|572|[subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree)||[:memo:](https://leetcode.com/articles/subtree-of-another-tree/)|Easy|
+|572|[subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0572-subtree-of-another-tree/subtree-of-another-tree.py)|[:memo:](https://leetcode.com/articles/subtree-of-another-tree/)|Easy|
 |573|[squirrel-simulation](https://leetcode.com/problems/squirrel-simulation)|:lock:|[:memo:](https://leetcode.com/articles/squirrel-simulation/)|Medium|
 |575|[distribute-candies](https://leetcode.com/problems/distribute-candies)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0575-distribute-candies/distribute-candies.py)|[:memo:](https://leetcode.com/articles/distribute-candies/)|Easy|
 |576|[out-of-boundary-paths](https://leetcode.com/problems/out-of-boundary-paths)||[:memo:](https://leetcode.com/articles/out-of-boundary-paths/)|Medium|
@@ -675,7 +675,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |739|[daily-temperatures](https://leetcode.com/problems/daily-temperatures)||[:memo:](https://leetcode.com/articles/daily-temperatures/)|Medium|
 |740|[delete-and-earn](https://leetcode.com/problems/delete-and-earn)||[:memo:](https://leetcode.com/articles/delete-and-earn/)|Medium|
 |741|[cherry-pickup](https://leetcode.com/problems/cherry-pickup)||[:memo:](https://leetcode.com/articles/cherry-pickup/)|Hard|
-|742|[to-lower-case](https://leetcode.com/problems/to-lower-case)|[Python](https://github.com/iFun/Project-G/blob/master/solutions/0742-to-lower-case/to-lower-case.py) [Python3](https://github.com/iFun/Project-G/blob/master/solutions/0742-to-lower-case/to-lower-case.py)||Easy|
+|742|[to-lower-case](https://leetcode.com/problems/to-lower-case)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0742-to-lower-case/to-lower-case.py)||Easy|
 |743|[closest-leaf-in-a-binary-tree](https://leetcode.com/problems/closest-leaf-in-a-binary-tree)|:lock:|[:memo:](https://leetcode.com/articles/closest-leaf-in-binary-tree/)|Medium|
 |744|[network-delay-time](https://leetcode.com/problems/network-delay-time)||[:memo:](https://leetcode.com/articles/network-delay-time/)|Medium|
 |745|[find-smallest-letter-greater-than-t...](https://leetcode.com/problems/find-smallest-letter-greater-than-target)||[:memo:](https://leetcode.com/articles/find-smallest-letter-greater-than-target/)|Easy|
@@ -858,7 +858,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |929|[groups-of-special-equivalent-string...](https://leetcode.com/problems/groups-of-special-equivalent-strings)||[:memo:](https://leetcode.com/articles/groups-of-special-equivalent-strings/)|Easy|
 |930|[all-possible-full-binary-trees](https://leetcode.com/problems/all-possible-full-binary-trees)||[:memo:](https://leetcode.com/articles/all-possible-full-binary-trees/)|Medium|
 |931|[maximum-frequency-stack](https://leetcode.com/problems/maximum-frequency-stack)||[:memo:](https://leetcode.com/articles/maximum-frequency-stack/)|Hard|
-|932|[monotonic-array](https://leetcode.com/problems/monotonic-array)||[:memo:](https://leetcode.com/articles/monotonic-array/)|Easy|
+|932|[monotonic-array](https://leetcode.com/problems/monotonic-array)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0932-monotonic-array/monotonic-array.py)|[:memo:](https://leetcode.com/articles/monotonic-array/)|Easy|
 |933|[increasing-order-search-tree](https://leetcode.com/problems/increasing-order-search-tree)||[:memo:](https://leetcode.com/articles/increasing-order-search-tree/)|Easy|
 |934|[bitwise-ors-of-subarrays](https://leetcode.com/problems/bitwise-ors-of-subarrays)||[:memo:](https://leetcode.com/articles/bitwise-ors-of-subarrays/)|Medium|
 |935|[orderly-queue](https://leetcode.com/problems/orderly-queue)||[:memo:](https://leetcode.com/articles/orderly-queue/)|Hard|
@@ -967,7 +967,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |1043|[grid-illumination](https://leetcode.com/problems/grid-illumination)|||Hard|
 |1044|[find-common-characters](https://leetcode.com/problems/find-common-characters)|||Easy|
 |1045|[check-if-word-is-valid-after-substi...](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions)|||Medium|
-|1046|[max-consecutive-ones-iii](https://leetcode.com/problems/max-consecutive-ones-iii)|||Medium|
+|1046|[max-consecutive-ones-iii](https://leetcode.com/problems/max-consecutive-ones-iii)||[:memo:](https://leetcode.com/articles/max-consecutive-ones-iii/)|Medium|
 |1047|[maximize-sum-of-array-after-k-negat...](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)|||Easy|
 |1048|[clumsy-factorial](https://leetcode.com/problems/clumsy-factorial)|||Medium|
 |1049|[minimum-domino-rotations-for-equal-...](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)||[:memo:](https://leetcode.com/articles/minimum-domino-rotations-for-equal-row/)|Medium|
@@ -1060,7 +1060,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |1140|[distant-barcodes](https://leetcode.com/problems/distant-barcodes)|||Medium|
 |1141|[how-many-apples-can-you-put-into-th...](https://leetcode.com/problems/how-many-apples-can-you-put-into-the-basket)|:lock:||Easy|
 |1142|[minimum-knight-moves](https://leetcode.com/problems/minimum-knight-moves)|:lock:||Medium|
-|1143|[find-smallest-common-element-in-all...](https://leetcode.com/problems/find-smallest-common-element-in-all-rows)|:lock:||Medium|
+|1143|[find-smallest-common-element-in-all...](https://leetcode.com/problems/find-smallest-common-element-in-all-rows)|:lock:|[:memo:](https://leetcode.com/articles/find-smallest-common-element-in-all-rows/)|Medium|
 |1144|[optimize-water-distribution-in-a-vi...](https://leetcode.com/problems/optimize-water-distribution-in-a-village)|:lock:||Hard|
 |1145|[number-of-submatrices-that-sum-to-t...](https://leetcode.com/problems/number-of-submatrices-that-sum-to-target)|||Hard|
 |1146|[greatest-common-divisor-of-strings](https://leetcode.com/problems/greatest-common-divisor-of-strings)|||Easy|
@@ -1074,6 +1074,9 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |1157|[insufficient-nodes-in-root-to-leaf-...](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths)|||Medium|
 |1159|[smallest-subsequence-of-distinct-ch...](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters)|||Medium|
 |1160|[letter-tile-possibilities](https://leetcode.com/problems/letter-tile-possibilities)|||Medium|
+|1164|[missing-number-in-arithmetic-progre...](https://leetcode.com/problems/missing-number-in-arithmetic-progression)|:lock:||Easy|
+|1165|[meeting-scheduler](https://leetcode.com/problems/meeting-scheduler)|:lock:||Medium|
+|1166|[toss-strange-coins](https://leetcode.com/problems/toss-strange-coins)|:lock:||Medium|
 |1167|[minimum-time-to-build-blocks](https://leetcode.com/problems/minimum-time-to-build-blocks)|:lock:||Hard|
 |1168|[duplicate-zeros](https://leetcode.com/problems/duplicate-zeros)||[:memo:](https://leetcode.com/articles/duplicate-zeros/)|Easy|
 |1169|[largest-values-from-labels](https://leetcode.com/problems/largest-values-from-labels)|||Medium|
@@ -1084,6 +1087,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |1184|[car-pooling](https://leetcode.com/problems/car-pooling)|||Medium|
 |1185|[find-in-mountain-array](https://leetcode.com/problems/find-in-mountain-array)|||Hard|
 |1188|[brace-expansion-ii](https://leetcode.com/problems/brace-expansion-ii)|||Hard|
+|1192|[divide-chocolate](https://leetcode.com/problems/divide-chocolate)|:lock:||Hard|
 |1194|[path-in-zigzag-labelled-binary-tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree)|||Medium|
 |1195|[distribute-candies-to-people](https://leetcode.com/problems/distribute-candies-to-people)||[:memo:](https://leetcode.com/articles/distribute-candies-to-people/)|Easy|
 |1196|[filling-bookcase-shelves](https://leetcode.com/problems/filling-bookcase-shelves)|||Medium|
@@ -1115,6 +1119,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |1263|[number-of-dice-rolls-with-target-su...](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum)|||Medium|
 |1267|[remove-zero-sum-consecutive-nodes-f...](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)|||Medium|
 |1270|[dinner-plate-stacks](https://leetcode.com/problems/dinner-plate-stacks)|||Hard|
+|1271|[web-crawler](https://leetcode.com/problems/web-crawler)|:lock:||Medium|
 |1272|[invalid-transactions](https://leetcode.com/problems/invalid-transactions)|||Medium|
 |1273|[compare-strings-by-frequency-of-the...](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)|||Easy|
 |1279|[prime-arrangements](https://leetcode.com/problems/prime-arrangements)|||Easy|
@@ -1134,7 +1139,7 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |1308|[smallest-string-with-swaps](https://leetcode.com/problems/smallest-string-with-swaps)|||Medium|
 |1309|[sort-items-by-groups-respecting-dep...](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies)|||Hard|
 |1319|[unique-number-of-occurrences](https://leetcode.com/problems/unique-number-of-occurrences)|||Easy|
-|1320|[remove-all-adjacent-duplicates-in-s...](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)|||Medium|
+|1320|[remove-all-adjacent-duplicates-in-s...](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii)||[:memo:](https://leetcode.com/articles/remove-all-adjacent-duplicates-in-string-ii/)|Medium|
 |1321|[get-equal-substrings-within-budget](https://leetcode.com/problems/get-equal-substrings-within-budget)|||Medium|
 |1322|[minimum-moves-to-reach-target-with-...](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations)|||Hard|
 |1329|[play-with-chips](https://leetcode.com/problems/play-with-chips)|||Easy|
@@ -1146,3 +1151,12 @@ Right now I am behind of my daily goals by **15** problems  :worried:
 |1342|[queens-that-can-attack-the-king](https://leetcode.com/problems/queens-that-can-attack-the-king)|||Medium|
 |1343|[dice-roll-simulation](https://leetcode.com/problems/dice-roll-simulation)|||Medium|
 |1344|[maximum-equal-frequency](https://leetcode.com/problems/maximum-equal-frequency)|||Hard|
+|1349|[check-if-it-is-a-straight-line](https://leetcode.com/problems/check-if-it-is-a-straight-line)|||Easy|
+|1350|[remove-sub-folders-from-the-filesys...](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem)|||Medium|
+|1351|[replace-the-substring-for-balanced-...](https://leetcode.com/problems/replace-the-substring-for-balanced-string)|||Medium|
+|1352|[maximum-profit-in-job-scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)|||Hard|
+|1358|[find-positive-integer-solution-for-...](https://leetcode.com/problems/find-positive-integer-solution-for-a-given-equation)|||Easy|
+|1359|[circular-permutation-in-binary-repr...](https://leetcode.com/problems/circular-permutation-in-binary-representation)|||Medium|
+|1360|[maximum-length-of-a-concatenated-st...](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters)|||Medium|
+|1361|[tiling-a-rectangle-with-the-fewest-...](https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares)|||Hard|
+|1362|[airplane-seat-assignment-probabilit...](https://leetcode.com/problems/airplane-seat-assignment-probability)|||Medium|
