@@ -1,15 +1,15 @@
 # :coffee: Leetcode Solutions with Python3,Javascript :coffee:
 
 Start time:   2019-07-01      
-Update time:  2019-11-13 17:05:53
+Update time:  2019-11-14 15:55:59
 
-I have solved **146   /   1159** problems
+I have solved **149   /   1159** problems
 while there are **199** problems still locked.
 
 My goal is to solve at least 2 problems per day exclude weekend 
 
 
-Right now I am behind of my daily goals by **46** problems  :worried:
+Right now I am behind of my daily goals by **45** problems  :worried:
 
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
@@ -47,7 +47,7 @@ Right now I am behind of my daily goals by **46** problems  :worried:
 |32|[longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses)||[:memo:](https://leetcode.com/articles/longest-valid-parentheses/)|Hard|
 |33|[search-in-rotated-sorted-array](https://leetcode.com/problems/search-in-rotated-sorted-array)||[:memo:](https://leetcode.com/articles/search-in-rotated-sorted-array/)|Medium|
 |34|[find-first-and-last-position-of-ele...](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)||[:memo:](https://leetcode.com/articles/find-first-and-last-position-element-sorted-array/)|Medium|
-|35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|||Easy|
+|35|[search-insert-position](https://leetcode.com/problems/search-insert-position)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0035-search-insert-position/search-insert-position.py)||Easy|
 |36|[valid-sudoku](https://leetcode.com/problems/valid-sudoku)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0036-valid-sudoku/valid-sudoku.py)|[:memo:](https://leetcode.com/articles/valid-sudoku/)|Medium|
 |37|[sudoku-solver](https://leetcode.com/problems/sudoku-solver)||[:memo:](https://leetcode.com/articles/sudoku-solver/)|Hard|
 |38|[count-and-say](https://leetcode.com/problems/count-and-say)|||Easy|
@@ -165,7 +165,7 @@ Right now I am behind of my daily goals by **46** problems  :worried:
 |150|[evaluate-reverse-polish-notation](https://leetcode.com/problems/evaluate-reverse-polish-notation)|||Medium|
 |151|[reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)|||Medium|
 |152|[maximum-product-subarray](https://leetcode.com/problems/maximum-product-subarray)|||Medium|
-|153|[find-minimum-in-rotated-sorted-arra...](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)||[:memo:](https://leetcode.com/articles/find-minimum-in-rotated-sorted-array/)|Medium|
+|153|[find-minimum-in-rotated-sorted-arra...](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0153-find-minimum-in-rotated-sorted-array/find-minimum-in-rotated-sorted-array.py)|[:memo:](https://leetcode.com/articles/find-minimum-in-rotated-sorted-array/)|Medium|
 |154|[find-minimum-in-rotated-sorted-arra...](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii)||[:memo:](https://leetcode.com/articles/find-minimum-in-rotated-sorted-array-ii/)|Hard|
 |155|[min-stack](https://leetcode.com/problems/min-stack)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0155-min-stack/min-stack.py)||Easy|
 |156|[binary-tree-upside-down](https://leetcode.com/problems/binary-tree-upside-down)|:lock:||Medium|
@@ -174,7 +174,7 @@ Right now I am behind of my daily goals by **46** problems  :worried:
 |159|[longest-substring-with-at-most-two-...](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters)|:lock:|[:memo:](https://leetcode.com/articles/longest-substring-with-at-most-two-distinct-charac/)|Hard|
 |160|[intersection-of-two-linked-lists](https://leetcode.com/problems/intersection-of-two-linked-lists)|[Javascript](https://github.com/iFun/Project-G/blob/master/solutions/0160-intersection-of-two-linked-lists/intersection-of-two-linked-lists.js)|[:memo:](https://leetcode.com/articles/intersection-of-two-linked-lists/)|Easy|
 |161|[one-edit-distance](https://leetcode.com/problems/one-edit-distance)|:lock:|[:memo:](https://leetcode.com/articles/one-edit-distance/)|Medium|
-|162|[find-peak-element](https://leetcode.com/problems/find-peak-element)||[:memo:](https://leetcode.com/articles/find-peak-element/)|Medium|
+|162|[find-peak-element](https://leetcode.com/problems/find-peak-element)|[Python3](https://github.com/iFun/Project-G/blob/master/solutions/0162-find-peak-element/find-peak-element.py)|[:memo:](https://leetcode.com/articles/find-peak-element/)|Medium|
 |163|[missing-ranges](https://leetcode.com/problems/missing-ranges)|:lock:||Medium|
 |164|[maximum-gap](https://leetcode.com/problems/maximum-gap)||[:memo:](https://leetcode.com/articles/maximum-gap/)|Hard|
 |165|[compare-version-numbers](https://leetcode.com/problems/compare-version-numbers)|||Medium|
@@ -1166,7 +1166,7 @@ Right now I am behind of my daily goals by **46** problems  :worried:
 |1362|[airplane-seat-assignment-probabilit...](https://leetcode.com/problems/airplane-seat-assignment-probability)|||Medium|
 |1369|[minimum-swaps-to-make-strings-equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal)|||Medium|
 |1370|[count-number-of-nice-subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays)|||Medium|
-|1371|[minimum-remove-to-make-valid-parent...](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)|||Medium|
+|1371|[minimum-remove-to-make-valid-parent...](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses)||[:memo:](https://leetcode.com/articles/minimum-remove-to-make-valid-parentheses/)|Medium|
 |1372|[check-if-it-is-a-good-array](https://leetcode.com/problems/check-if-it-is-a-good-array)|||Hard|
 |1378|[cells-with-odd-values-in-a-matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix)|||Easy|
 |1379|[reconstruct-a-2-row-binary-matrix](https://leetcode.com/problems/reconstruct-a-2-row-binary-matrix)|||Medium|
